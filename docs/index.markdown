@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Aalto Seminar on Advances in Probabilistic Machine Learning
+
+
