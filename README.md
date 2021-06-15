@@ -7,6 +7,8 @@
 | Diana Cai | TBD | dcai@cs.princeton.edu | [dianacai.com](https://www.dianacai.com) | Martin Trapp |
 | James Thornton | TBD | james.thornton@spc.ox.ac.uk | [jtt94.github.io](https://jtt94.github.io/) | Adrien Corenflos |
 | Will Tebbutt  | TBD | wct23@cam.ac.uk | [willtebbutt.github.io](https://willtebbutt.github.io) | Martin Trapp |
+| YooJung Choi | TBD | yjchoi@cs.ucla.edu | [http://web.cs.ucla.edu/~yjchoi](http://web.cs.ucla.edu/~yjchoi/) | Martin Trapp |
+| Christian Knoll | TBD | christian.knoll@tugraz.at | [https://www.spsc.tugraz.at/people/christian-knoll.html](https://www.spsc.tugraz.at/people/christian-knoll.html) | Martin Trapp |
 
 # Invitation e-Mail
 
