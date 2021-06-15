@@ -26,7 +26,7 @@ After the talk, we plan to have an open-end private discussion with you and the 
 
 To ensure many people can join your talk, we would start the seminar after the summer. 
 
-If you are interested in giving a talk at our new seminar, please select the date that fits your schedule the best: [doodle link]. We will then contact you for further details regarding a title for you talk, an abstract, and a short bio.
+If you are interested in giving a talk at our new seminar, please select the date that fits your schedule the best: [doodle link]. We will then contact you for further details regarding a title for your talk, an abstract, and a short bio.
 
 We are looking forward to hearing about your research and have some exciting discussions. If you have any questions, please do not hesitate to contact us.
 
