@@ -11,24 +11,24 @@
 # Invitation e-Mail
 
 ```
-title: Invitation to Aalto Seminar on Advances in Probabilistic Machine Learning
+title: Invitation to present at the Aalto Seminar on Advances in Probabilistic Machine Learning
 
 
 Dear xxx,
 
-We (Arno Solin and Martin Trapp) are at the beginning of organising a series of invited talks at the ML group at Aalto University. The seminar series aims to provide a platform for young researchers (final year PhD or PostDoc level) to give invited talks about their research, intending to have a diverse set of talks & speakers on topics related to probabilistic machine learning. 
+We (Arno Solin and Martin Trapp) are at the beginning of organising a series of invited talks at the ML group at Aalto University. The seminar series aims to provide a platform for young researchers (PhD or post-doc level) to give invited talks about their research, intending to have a diverse set of talks & speakers on topics related to probabilistic machine learning. 
 
-To start with a set of exciting talks, we would like to invite you for a virtual talk (~ 30 min + 15 min Q&A).
+To start with a set of exciting talks, we would like to invite you for a virtual talk (~30 min + 15 min Q&A).
 
-The talks will be scheduled on Wednesday (every other week), 3 pm (Finnish time), and depending on your timezone, we will adjust your presentation time if needed. We will make all talks open to the public (upon registration), except if you prefer to have a private presentation. The talks will not be recorded.
+The talks will be scheduled on Wednesday (every other week), 3 pm (Finnish time), and depending on your timezone, we will adjust your presentation time if needed. We will make all talks open to the public (upon registration), except if you prefer to have a private presentation. The talks will not be recorded in order to ensure that less polished/unfinished ideas can also be covered.
 
 After the talk, we plan to have an open-end private discussion with you and the group to get to know each other better and have some further discussions.
 
 To ensure many people can join your talk, we would start the seminar after the summer. 
 
-If you are interested in giving a talk at our new seminar, please select the date that fits your schedule the best: [doodle link].
+If you are interested in giving a talk at our new seminar, please select the date that fits your schedule the best: [doodle link]. We will then contact you for further details regarding a title for you talk, an abstract, and a short bio.
 
-We are looking forward to hearing about your research and have some exciting discussions.
+We are looking forward to hearing about your research and have some exciting discussions. If you have any questions, please do not hesitate to contact us.
 
 All the best
 
