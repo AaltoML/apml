@@ -2,7 +2,7 @@
 
 | Speaker | Date | E-Mail | Website | Contact |
 | -------- | -------- | -------- | -------- | -------- |
-| Théo Galy-Fajou | TBD | galy-fajou@tu-berlin.de | [theogf.github.io](https://theogf.github.io) | Martin Trapp |
+| Théo Galy-Fajou | 01.09.2021 | galy-fajou@tu-berlin.de | [theogf.github.io](https://theogf.github.io) | Martin Trapp |
 | Virginia Aglietti | TBD | agliettivirginia@gmail.com | [turing.ac.uk/people/researchers/virginia-aglietti](https://www.turing.ac.uk/people/researchers/virginia-aglietti) | Will Wilkinson |
 | Diana Cai | TBD | dcai@cs.princeton.edu | [dianacai.com](https://www.dianacai.com) | Martin Trapp |
 | James Thornton | TBD | james.thornton@spc.ox.ac.uk | [jtt94.github.io](https://jtt94.github.io/) | Adrien Corenflos |
