@@ -8,7 +8,7 @@
 | James Thornton | TBD | james.thornton@spc.ox.ac.uk | [jtt94.github.io](https://jtt94.github.io/) | Adrien Corenflos |
 | Will Tebbutt  | 18.08.2021 | wct23@cam.ac.uk | [willtebbutt.github.io](https://willtebbutt.github.io) | Martin Trapp |
 | YooJung Choi | TBD | yjchoi@cs.ucla.edu | [http://web.cs.ucla.edu/~yjchoi](http://web.cs.ucla.edu/~yjchoi/) | Martin Trapp |
-| Christian Knoll | TBD | christian.knoll@tugraz.at | [https://www.spsc.tugraz.at/people/christian-knoll.html](https://www.spsc.tugraz.at/people/christian-knoll.html) | Martin Trapp |
+| Christian Knoll | 10.11.2021 | christian.knoll@tugraz.at | [https://www.spsc.tugraz.at/people/christian-knoll.html](https://www.spsc.tugraz.at/people/christian-knoll.html) | Martin Trapp |
 
 # Invitation e-Mail
 
