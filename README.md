@@ -3,11 +3,11 @@
 | Speaker | Date | E-Mail | Website | Contact |
 | -------- | -------- | -------- | -------- | -------- |
 | Théo Galy-Fajou | 01.09.2021 | galy-fajou@tu-berlin.de | [theogf.github.io](https://theogf.github.io) | Martin Trapp |
-| Virginia Aglietti | TBD | agliettivirginia@gmail.com | [turing.ac.uk/people/researchers/virginia-aglietti](https://www.turing.ac.uk/people/researchers/virginia-aglietti) | Will Wilkinson |
-| Diana Cai | TBD | dcai@cs.princeton.edu | [dianacai.com](https://www.dianacai.com) | Martin Trapp |
-| James Thornton | TBD | james.thornton@spc.ox.ac.uk | [jtt94.github.io](https://jtt94.github.io/) | Adrien Corenflos |
+| Virginia Aglietti | 29.09.2021 (?) | agliettivirginia@gmail.com | [turing.ac.uk/people/researchers/virginia-aglietti](https://www.turing.ac.uk/people/researchers/virginia-aglietti) | Will Wilkinson |
+| Diana Cai | 15.09.2021 | dcai@cs.princeton.edu | [dianacai.com](https://www.dianacai.com) | Martin Trapp |
+| James Thornton | 24.11.2021 | james.thornton@spc.ox.ac.uk | [jtt94.github.io](https://jtt94.github.io/) | Adrien Corenflos |
 | Will Tebbutt  | 18.08.2021 | wct23@cam.ac.uk | [willtebbutt.github.io](https://willtebbutt.github.io) | Martin Trapp |
-| YooJung Choi | TBD | yjchoi@cs.ucla.edu | [http://web.cs.ucla.edu/~yjchoi](http://web.cs.ucla.edu/~yjchoi/) | Martin Trapp |
+| YooJung Choi | 27.10.2021 (?) | yjchoi@cs.ucla.edu | [http://web.cs.ucla.edu/~yjchoi](http://web.cs.ucla.edu/~yjchoi/) | Martin Trapp |
 | Christian Knoll | 10.11.2021 | christian.knoll@tugraz.at | [https://www.spsc.tugraz.at/people/christian-knoll.html](https://www.spsc.tugraz.at/people/christian-knoll.html) | Martin Trapp |
 | Priyank Jaini | 13.10.2021 | jaini.priyank1@gmail.com | https://priyankjaini.github.io | Martin Trapp |
 
