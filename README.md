@@ -2,7 +2,7 @@
 
 | Speaker | Date | E-Mail | Title | Contact |
 | -------- | -------- | -------- | -------- | -------- |
-| [Théo Galy-Fajou](https://theogf.github.io) | 01.09.2021 | galy-fajou@tu-berlin.de | TBA | Martin Trapp |
+| [Théo Galy-Fajou](https://theogf.github.io) | 01.09.2021 | galy-fajou@tu-berlin.de | Automated Augmentated Conjugate Inference for Gaussian Processes | Martin Trapp |
 | [Virginia Aglietti](https://www.turing.ac.uk/people/researchers/virginia-aglietti) | 29.09.2021 (?) | agliettivirginia@gmail.com | TBA | Will Wilkinson |
 | [Diana Cai](https://www.dianacai.com) | 15.09.2021 | dcai@cs.princeton.edu | TBA | Martin Trapp |
 | [James Thornton](https://jtt94.github.io/) | 24.11.2021 | james.thornton@spc.ox.ac.uk | TBA | Adrien Corenflos |
