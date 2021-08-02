@@ -1,0 +1,80 @@
+---
+layout: default
+---
+
+<div class="jumbotron jumbotron-fluid bg-dark banner">
+  
+  <div class="jumbotron-background">
+    <img src="{{ site.baseurl }}/assets/background.jpg" class="blur" />
+  </div>
+
+  <div class="container text-white">
+    <div class="page-heading">
+      <h1>{{ site.title }}</h1>
+      <hr class="small">
+      <span class="page-subheading">{{ site.description }}</span>
+    </div>
+  </div>
+</div>
+
+<div class="container-md">
+
+<div class="row">
+
+<div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+
+<!-- Information -->
+
+<div class="jumbotron information">
+  {{ site.information | markdownify }}
+  <div class="text-center">
+    <a class="btn btn-success btn-lg register-btn" href="{{ site.registration }}">Register for the seminar</a>
+  </div>
+  {{ site.details | markdownify }}
+  <div id="hosted-by">Seminar organizers {{ site.organizers | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+</div>
+
+
+<div class="posts-list">
+
+<!-- List talks -->
+
+{% for talk in site.data.talks %}
+
+  <article class="post-preview">
+    <h2 class="post-title">{{ talk.title }}</h2>
+    <h3 class="post-subtitle">{{ talk.presenter }} ({{ talk.affiliation }})</h3>
+    <p class="post-meta">{{ talk.date }}</p>
+    <div class="post-entry">
+      <strong>Abstract:</strong>
+      {{ talk.abstract }}
+    </div>
+    <div class="row post-bio">
+      <div class="col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 text-center">
+      {% if talk.photo %}
+        <img src="{{ site.baseurl }}/assets/speakers/{{ talk.photo }}.jpg" class="img-responsive img-circle avatar" alt="">
+      {% else %}
+        <div class="avatar" style="background: #ddd;">
+          <i class="fa fa-user" style="font-size: 100px; color: #eee; margin-top:20px;"></i>
+        </div>
+      {% endif %}
+      </div>
+      <div class="col-12 col-sm-8 col-md-9 col-lg-10 col-xl-10 text-muted">
+        <strong>About the presenter:</strong>
+        {{ talk.biography }}
+      </div>
+    </div>
+  </article>
+
+{% endfor %}
+
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+

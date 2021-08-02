@@ -1,0 +1,26 @@
+
+baseurl: ""
+color-scheme: "#334279" # the scheme can be any HEX code like "#00aa55"
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+include:
+  - _pages
+
+exclude:
+  - .sass-cache
+
+title: "Seminar on Advances in Probabilistic Machine Learning"
+description: "Aalto University seminar on Advances in Probabilistic Machine Learning"
+
+information: This seminar series aims to provide a platform for young researchers (PhD student or post-doc level) to give invited talks about their research, intending to have a diverse set of talks & speakers on topics related to probabilistic machine learning. 
+
+registration: #link
+
+details: The presentations are virtual talks (~30 min + 15 min Q&A) given **live over Zoom**. In order to stimulate discussion and allow for presentation of ongoing work, the talks are not recorded unless the speaker separately requests for it.
+
+organizers: "[Martin Trapp](#) and [Arno Solin](http://arno.solin.fi)"
+
+
