@@ -1,14 +1,62 @@
 - date: August 18, 2021 at 3 pm EEST
-  title: "Combining Pseudo-Point and State Space Approximations for Sum-Separable Gaussian processes"
+  title: "Combining Pseudo-Point and State Space Approximations for Sum-Separable Gaussian Processes"
   presenter: "Will Tebbutt"
   affiliation: "University of Cambridge"
-  abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id erat lobortis, consequat nunc non, tempor metus. Duis sodales quis elit eget convallis. Suspendisse feugiat vulputate feugiat. Nam ac neque ac elit sagittis vehicula eget non ex. Nunc in venenatis justo, interdum feugiat elit. Duis vel porttitor ipsum, in semper nibh. Curabitur lacinia risus ut libero rutrum, vel condimentum risus aliquet. Pellentesque a lorem a turpis suscipit consectetur eget sed ante. Integer vel dictum leo, et tristique est. In vestibulum nulla eget orci faucibus interdum. Nunc aliquet nisi at velit tristique, eu sagittis dui convallis. Suspendisse varius urna sed velit sodales molestie. Ut et justo justo. Curabitur sollicitudin, velit malesuada egestas auctor, felis augue aliquam sem, in lacinia erat nulla in nibh."
+  abstract: "TBA"
   photo: "will-tebbutt"
-  biography: "Phasellus eu ex enim. Phasellus ornare tellus at mi dapibus, quis luctus orci gravida. Sed lacinia semper ligula id sollicitudin. Morbi eu ante nec lectus commodo finibus et volutpat dui. Aliquam arcu dui, varius rhoncus libero ut, mattis euismod tortor. Pellentesque non arcu quis neque aliquam commodo. Cras varius venenatis felis, ut efficitur orci consequat ut. Quisque ac turpis ut magna iaculis imperdiet."
+  biography: "TBA"
 
-- date: August 18, 2021 at 3 pm EEST
-  title: "Combining Pseudo-Point and State Space Approximations for Sum-Separable Gaussian processes"
-  presenter: "Will Tebbutt"
-  affiliation: "University of Cambridge"
-  abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id erat lobortis, consequat nunc non, tempor metus. Duis sodales quis elit eget convallis. Suspendisse feugiat vulputate feugiat. Nam ac neque ac elit sagittis vehicula eget non ex. Nunc in venenatis justo, interdum feugiat elit. Duis vel porttitor ipsum, in semper nibh. Curabitur lacinia risus ut libero rutrum, vel condimentum risus aliquet. Pellentesque a lorem a turpis suscipit consectetur eget sed ante. Integer vel dictum leo, et tristique est. In vestibulum nulla eget orci faucibus interdum. Nunc aliquet nisi at velit tristique, eu sagittis dui convallis. Suspendisse varius urna sed velit sodales molestie. Ut et justo justo. Curabitur sollicitudin, velit malesuada egestas auctor, felis augue aliquam sem, in lacinia erat nulla in nibh."
-  biography: "Phasellus eu ex enim. Phasellus ornare tellus at mi dapibus, quis luctus orci gravida. Sed lacinia semper ligula id sollicitudin. Morbi eu ante nec lectus commodo finibus et volutpat dui. Aliquam arcu dui, varius rhoncus libero ut, mattis euismod tortor. Pellentesque non arcu quis neque aliquam commodo. Cras varius venenatis felis, ut efficitur orci consequat ut. Quisque ac turpis ut magna iaculis imperdiet."
+- date: September 01, 2021 at 3 pm EEST
+  title: "Automated Augmentated Conjugate Inference for Gaussian Processes"
+  presenter: "Théo Galy-Fajou"
+  affiliation: "TU Berlin"
+  abstract: "TBA"
+  photo: "theo-galy-fajou"
+  biography: "TBA"
+
+- date: September 15, 2021 at 3 pm EEST
+  title: "TBA"
+  presenter: "Diana Cai"
+  affiliation: "Princeton University"
+  abstract: "TBA"
+  photo: "diana-cai"
+  biography: "TBA"
+
+- date: September 29, 2021 at 3 pm EEST
+  title: "TBA"
+  presenter: "Virginia Aglietti"
+  affiliation: "University of Warwick"
+  abstract: "TBA"
+  photo: "virginia-aglietti"
+  biography: "TBA"
+
+- date: October 13, 2021 at 3 pm EEST
+  title: "Incorporating Symmetries in Probabilistic Modelling"
+  presenter: "Priyank Jaini"
+  affiliation: "University of Amsterdam"
+  abstract: "TBA"
+  photo: "priyank-jaini"
+  biography: "TBA"
+
+- date: October 27, 2021 at 3 pm EEST
+  title: "Probabilistic Reasoning for Fair and Robust Decision Making"
+  presenter: "YooJung Choi"
+  affiliation: "UCLA"
+  abstract: "TBA"
+  biography: "TBA"
+
+- date: November 10, 2021 at 3 pm EEST
+  title: "TBA"
+  presenter: "Christian Knoll"
+  affiliation: "TU Graz"
+  abstract: "TBA"
+  photo: "christian-knoll"
+  biography: "TBA"
+
+- date: November 24, 2021 at 3pm EEST
+  title: "TBA"
+  presenter: "James Thornton"
+  affiliation: "University of Oxford"
+  abstract: "TBA"
+  photo: "james-thornton"
+  biography: "TBA"
