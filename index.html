@@ -28,20 +28,20 @@ layout: default
 <div class="jumbotron information">
   {{ site.information | markdownify }}
   <div class="text-center">
-    <a class="btn btn-success btn-lg register-btn" href="{{ site.registration }}">Register for the seminar</a>
+    <a class="btn btn-success btn-lg register-btn" href="{{ site.registration }}">{% if site.registration %}Register for the seminar{% else %}Registration opening soon{% endif %}</a>
   </div>
   {{ site.details | markdownify }}
   <div id="hosted-by">Seminar organizers {{ site.organizers | markdownify | remove: '<p>' | remove: '</p>' }}</div>
 </div>
 
 
-<div class="posts-list">
+<div class="posts-list" id="talk-list">
 
 <!-- List talks -->
 
 {% for talk in site.data.talks %}
 
-  <article class="post-preview">
+  <article class="post-preview" datetime="{{ talk.date | date: "%s" }}">
     <h2 class="post-title">{{ talk.title }}</h2>
     <h3 class="post-subtitle">{{ talk.presenter }} ({{ talk.affiliation }})</h3>
     <p class="post-meta">{{ talk.date }}</p>
@@ -68,7 +68,9 @@ layout: default
 
 {% endfor %}
 
+</div>
 
+<div class="posts-list" id="past-talks">
 </div>
 
 </div>
@@ -76,5 +78,40 @@ layout: default
 </div>
 
 </div>
+
+<script src="{{ site.baseurl }}/assets/vendor/jquery/jquery.min.js"></script>
+
+<script>
+  $(document).ready(function() {
+
+    // Move talk to Past talks one hour after the scheduled time
+    var currentTime = Math.floor(Date.now() / 1000) + 3600;
+
+    console.log('Current unix time: '+currentTime);
+
+    $("#talk-list").prepend("<h2>Upcoming talks</h2>");
+
+    // Make sure the talk list is sorted (next talk first)
+    $("#talk-list article")
+    .sort((a,b) => $(a).attr("datetime") - $(b).attr("datetime"))
+    .appendTo("#talk-talks");
+
+    // Add label if there are past talks
+    if (parseInt($("#talk-list article").first().attr("datetime")) < currentTime) {
+        $("#past-talks").prepend("<h2>Past talks</h2>");
+    }
+
+    // Move past talks to Past Talks list
+    $("#talk-list article").filter(function() {
+        return parseInt($(this).attr("datetime")) < currentTime;
+    }).appendTo("#past-talks");
+
+    // Sort past talks by reverse time (most recent first)
+    $("#past-talks article")
+    .sort((a,b) => $(b).attr("datetime") - $(a).attr("datetime"))
+    .appendTo("#past-talks");
+
+  });
+</script>
 
 
