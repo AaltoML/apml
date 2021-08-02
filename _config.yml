@@ -1,5 +1,5 @@
 
-baseurl: "apml"
+baseurl: "https://aaltoml.github.io/apml"
 color-scheme: "#334279" # the scheme can be any HEX code like "#00aa55"
 
 sass:
