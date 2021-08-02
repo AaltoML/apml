@@ -17,7 +17,7 @@ description: "Aalto University Seminar on Advances in Probabilistic Machine Lear
 
 information: This seminar series aims to provide a platform for young researchers (PhD student or post-doc level) to give invited talks about their research, intending to have a diverse set of talks & speakers on topics related to probabilistic machine learning. 
 
-registration: #link
+registration-deactivated: "link here, remove deactivated"
 
 details: The presentations are virtual talks (~30 min + 15 min Q&A) given **live over Zoom**. To stimulate discussion and allow for the presentation of ongoing work, the talks will not be recorded unless the speaker separately requests for it.
 
