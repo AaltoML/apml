@@ -1,3 +1,5 @@
+This web page uses Jekyll through GitHub pages which renders static HTML pages that are accessible at [https://aaltoml.github.io/apml/](https://aaltoml.github.io/apml/).
+
 # List of speakers:
 
 | Speaker | Date | E-Mail | Title | Contact |
