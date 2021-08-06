@@ -7,12 +7,12 @@
   biography: "TBA"
 
 - date: September 01, 2021 at 3 pm EEST
-  title: "Automated Augmentated Conjugate Inference for Gaussian Processes"
+  title: "Automated Augmented Conjugate Inference for Gaussian Processes""
   presenter: "Théo Galy-Fajou"
   affiliation: "TU Berlin"
-  abstract: "TBA"
+  abstract: "Gaussian Processes are a tool of choice for modelling functions with uncertainties. However, the inference is only tractable analytically for the classical case of regression with Gaussian noise since all other likelihoods are not conjugate with the Gaussian prior. In this talk, I will show how one can transform a large class of likelihoods into conditional conjugate distributions by augmenting them with latent variables. These augmented models have the advantage that, while the posterior inference is still not fully analytic, the full conditionals are! Consequently, one can work easily (and efficiently!) with algorithms like Gibbs sampling or Coordinate Ascent VI (CAVI) and outperform existing inference methods."
   photo: "theo-galy-fajou"
-  biography: "TBA"
+  biography: "Théo Galy-Fajou is a PhD candidate at TU Berlin under the supervision of Prof. Manfred Opper. His work focuses specifically on Gaussian processes and ways to scale them easily to more data and more complex models. He also has a general interest in all approximate Bayesian inference techniques. He is heavily involved in open-source development for inference and visualization techniques of Bayesian methods in the Julia programming language."
 
 - date: September 15, 2021 at 3 pm EEST
   title: "TBA"
@@ -59,4 +59,4 @@
   affiliation: "University of Oxford"
   abstract: "TBA"
   photo: "james-thornton"
-  biography: "TBA"
+  biography: ""
