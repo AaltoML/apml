@@ -1,18 +1,16 @@
 - date: August 18, 2021 at 3 pm EEST
   title: "Combining Pseudo-Point and State Space Approximations for Sum-Separable Gaussian Processes"
-  presenter: "<a href=\"https://github.com/willtebbutt\">Will Tebbutt</a>"
+  presenter: "<a href=\"https://github.com/willtebbutt\", target=\"_blank\">Will Tebbutt</a>"
   affiliation: "University of Cambridge"
   abstract: "State space approximations and pseudo point approximations can be combined in a principled manner to yield scalable approximate inference algorithms for sums of separable Gaussian processes. In this talk I will: 1. show how this combination can be performed for variational pseudo point approximations via a simple conditional independence result, 2. discuss how existing exact inference algorithms for state space models can be re-purposed for approximate inference, 3. interpret existing related work in light of our work, and 4. briefly discuss some experimental results in a spatio-temporal context.
  
-For more info, please see our recent UAI paper: [https://arxiv.org/abs/2106.10210](https://arxiv.org/abs/2106.10210)"
+For more info, please see our recent <a href=\"https://arxiv.org/abs/2106.10210\", target=\"_blank\">UAI paper</a>."
   photo: "will-tebbutt"
-  biography: "Will is a PhD student with Rich Turner in the Machine Learning Group at Cambridge, and is interested in probabilistic modelling in general. He's particularly interested in Gaussian processes: how to specify and scale them in large spatio-temporal settings, how best to write software to work with them, and challenges faced in climate science for which they might be helpful.
-
-https://github.com/willtebbutt"
+  biography: "Will is a PhD student with Rich Turner in the Machine Learning Group at Cambridge, and is interested in probabilistic modelling in general. He's particularly interested in Gaussian processes: how to specify and scale them in large spatio-temporal settings, how best to write software to work with them, and challenges faced in climate science for which they might be helpful."
 
 - date: September 01, 2021 at 3 pm EEST
   title: "Automated Augmented Conjugate Inference for Gaussian Processes"
-  presenter: "Théo Galy-Fajou"
+  presenter: "<a href=\"https://theogf.github.io\", target=\"_blank\">Théo Galy-Fajou</a>"
   affiliation: "TU Berlin"
   abstract: "Gaussian Processes are a tool of choice for modelling functions with uncertainties. However, the inference is only tractable analytically for the classical case of regression with Gaussian noise since all other likelihoods are not conjugate with the Gaussian prior. In this talk, I will show how one can transform a large class of likelihoods into conditional conjugate distributions by augmenting them with latent variables. These augmented models have the advantage that, while the posterior inference is still not fully analytic, the full conditionals are! Consequently, one can work easily (and efficiently!) with algorithms like Gibbs sampling or Coordinate Ascent VI (CAVI) and outperform existing inference methods."
   photo: "theo-galy-fajou"
@@ -20,7 +18,7 @@ https://github.com/willtebbutt"
 
 - date: September 15, 2021 at 3 pm EEST
   title: "TBA"
-  presenter: "Diana Cai"
+  presenter: "<a href=\"https://www.dianacai.com\", target=\"_blank\">Diana Cai</a>"
   affiliation: "Princeton University"
   abstract: "TBA"
   photo: "diana-cai"
@@ -28,7 +26,7 @@ https://github.com/willtebbutt"
 
 - date: September 29, 2021 at 3 pm EEST
   title: "TBA"
-  presenter: "Virginia Aglietti"
+  presenter: "<a href=\"https://warwick.ac.uk/fac/sci/statistics/staff/research_students/aglietti/\", target=\"_blank\">Virginia Aglietti</a>"
   affiliation: "University of Warwick"
   abstract: "TBA"
   photo: "virginia-aglietti"
@@ -36,7 +34,7 @@ https://github.com/willtebbutt"
 
 - date: October 13, 2021 at 3 pm EEST
   title: "Incorporating Symmetries in Probabilistic Modelling"
-  presenter: "Priyank Jaini"
+  presenter: "<a href=\"https://priyankjaini.github.io\", target=\"_blank\">Priyank Jaini</a>"
   affiliation: "University of Amsterdam"
   abstract: "TBA"
   photo: "priyank-jaini"
@@ -44,14 +42,14 @@ https://github.com/willtebbutt"
 
 - date: October 27, 2021 at 3 pm EEST
   title: "Probabilistic Reasoning for Fair and Robust Decision Making"
-  presenter: "YooJung Choi"
+  presenter: "<a href=\"http://web.cs.ucla.edu/~yjchoi/\", target=\"_blank\">YooJung Choi</a>"
   affiliation: "UCLA"
   abstract: "TBA"
   biography: "TBA"
 
 - date: November 10, 2021 at 3 pm EEST
   title: "TBA"
-  presenter: "Christian Knoll"
+  presenter: "<a href=\"https://www.spsc.tugraz.at/people/christian-knoll.html\", target=\"_blank\">Christian Knoll</a>"
   affiliation: "TU Graz"
   abstract: "TBA"
   photo: "christian-knoll"
@@ -59,7 +57,7 @@ https://github.com/willtebbutt"
 
 - date: November 24, 2021 at 3pm EEST
   title: "TBA"
-  presenter: "James Thornton"
+  presenter: "<a href=\"https://jtt94.github.io/\", target=\"_blank\">James Thornton</a>"
   affiliation: "University of Oxford"
   abstract: "TBA"
   photo: "james-thornton"
