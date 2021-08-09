@@ -1,6 +1,6 @@
 - date: August 18, 2021 at 3 pm EEST
   title: "Combining Pseudo-Point and State Space Approximations for Sum-Separable Gaussian Processes"
-  presenter: "\<a href=\'https://github.com/willtebbutt\'\>Will Tebbutt\</a\>"
+  presenter: "<a href=\"https://github.com/willtebbutt\">Will Tebbutt</a>"
   affiliation: "University of Cambridge"
   abstract: "State space approximations and pseudo point approximations can be combined in a principled manner to yield scalable approximate inference algorithms for sums of separable Gaussian processes. In this talk I will: 1. show how this combination can be performed for variational pseudo point approximations via a simple conditional independence result, 2. discuss how existing exact inference algorithms for state space models can be re-purposed for approximate inference, 3. interpret existing related work in light of our work, and 4. briefly discuss some experimental results in a spatio-temporal context.
  
