@@ -41,3 +41,18 @@ Arno Solin,
 Martin Trapp
 
 ```
+
+
+# List of direct contacts
+
+```
+aki.vehtari@aalto.fi
+harri.lahdesmaki@aalto.fi
+vikas.garg@aalto.fi
+jaakko.lehtinen@aalto.fi
+pekka.marttinen@aalto.fi
+samuel.kaski@aalto.fi
+arto.klami@cs.helsinki.fi
+luigi.acerbi@helsinki.fi
+laura.ruotsalainen@helsinki.fi
+```
