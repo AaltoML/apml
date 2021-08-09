@@ -2,11 +2,11 @@
   title: "Combining Pseudo-Point and State Space Approximations for Sum-Separable Gaussian Processes"
   presenter: "<a href=\"https://github.com/willtebbutt\", target=\"_blank\">Will Tebbutt</a>"
   affiliation: "University of Cambridge"
-  abstract: "State space approximations and pseudo point approximations can be combined in a principled manner to yield scalable approximate inference algorithms for sums of separable Gaussian processes. In this talk I will: 1. show how this combination can be performed for variational pseudo point approximations via a simple conditional independence result, 2. discuss how existing exact inference algorithms for state space models can be re-purposed for approximate inference, 3. interpret existing related work in light of our work, and 4. briefly discuss some experimental results in a spatio-temporal context.
+  abstract: "State space approximations and pseudo point approximations can be combined in a principled manner to yield scalable approximate inference algorithms for sums of separable Gaussian processes. In this talk, I will: 1. show how this combination can be performed for variational pseudo point approximations via a simple conditional independence result, 2. discuss how existing exact inference algorithms for state space models can be re-purposed for approximate inference, 3. interpret existing related work in light of our work, and 4. briefly discuss some experimental results in a spatio-temporal context.
  
 For more info, please see our recent <a href=\"https://arxiv.org/abs/2106.10210\", target=\"_blank\">UAI paper</a>."
   photo: "will-tebbutt"
-  biography: "Will is a PhD student with Rich Turner in the Machine Learning Group at Cambridge, and is interested in probabilistic modelling in general. He's particularly interested in Gaussian processes: how to specify and scale them in large spatio-temporal settings, how best to write software to work with them, and challenges faced in climate science for which they might be helpful."
+  biography: "Will is a PhD student with Rich Turner in the Machine Learning Group at Cambridge, and is interested in probabilistic modelling in general. He is particularly interested in Gaussian processes: how to specify and scale them in large spatio-temporal settings, how best to write software to work with them, and challenges faced in climate science for which they might be helpful."
 
 - date: September 01, 2021 at 3 pm EEST
   title: "Automated Augmented Conjugate Inference for Gaussian Processes"
