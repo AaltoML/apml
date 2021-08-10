@@ -55,4 +55,30 @@ samuel.kaski@aalto.fi
 arto.klami@cs.helsinki.fi
 luigi.acerbi@helsinki.fi
 laura.ruotsalainen@helsinki.fi
+pernkopf@tugraz.at
+kersting@cs.tu-darmstadt.de
+cassio@decampos.nl
+guyvdb@cs.ucla.edu
+```
+
+Message to direct invitees:
+
+```
+Dear everyone,
+We cordially invite you and your group to attend our newly founded seminar on Advances in Probabilistic Machine Learning.
+
+The seminar series aims to provide a platform for young researchers (PhD student or post-doc level) to give invited talks about their research, intending to have a diverse set of talks & speakers on topics related to probabilistic machine learning. The presentations are virtual talks (~30 min + 15 min Q&A) given live over Zoom. 
+
+You can find the list of upcoming talks and the registration form for the seminar on our website: https://aaltoml.github.io/apml. Please consider sharing this information with your group and colleagues.
+
+We are excited that the first talk of our seminar will be by Will Tebbutt from the University of Cambridge on August 18, 2021, at 3 pm EEST.
+
+Title: Combining Pseudo-Point and State Space Approximations for Sum-Separable Gaussian Processes
+
+Abstract: State space approximations and pseudo point approximations can be combined in a principled manner to yield scalable approximate inference algorithms for sums of separable Gaussian processes. In this talk, I will: 1. show how this combination can be performed for variational pseudo point approximations via a simple conditional independence result, 2. discuss how existing exact inference algorithms for state space models can be re-purposed for approximate inference, 3. interpret existing related work in light of our work, and 4. briefly discuss some experimental results in a spatio-temporal context. For more info, please see our recent UAI paper.
+
+About the presenter: Will Tebbutt is a PhD student with Rich Turner in the Machine Learning Group at Cambridge, and is interested in probabilistic modelling in general. He is particularly interested in Gaussian processes: how to specify and scale them in large spatio-temporal settings, how best to write software to work with them, and challenges faced in climate science for which they might be helpful.
+
+Looking forward seeing you at our seminar,
+Arno Solin & Martin Trapp
 ```
