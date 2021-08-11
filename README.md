@@ -67,7 +67,7 @@ Message to direct invitees:
 Dear everyone,
 We cordially invite you and your group to attend our newly founded seminar on Advances in Probabilistic Machine Learning.
 
-The seminar series aims to provide a platform for young researchers (PhD student or post-doc level) to give invited talks about their research, intending to have a diverse set of talks & speakers on topics related to probabilistic machine learning. The presentations are virtual talks (~30 min + 15 min Q&A) given live over Zoom. 
+The seminar series aims to provide a platform for young researchers across the global ML community to give invited talks about their research, intending to have a diverse set of talks & speakers on topics related to probabilistic machine learning. The presentations are virtual talks (~30 min + 15 min Q&A) given live over Zoom. 
 
 You can find the list of upcoming talks and the registration form for the seminar on our website: https://aaltoml.github.io/apml. Please consider sharing this information with your group and colleagues.
 
