@@ -13,6 +13,13 @@ This web page uses Jekyll through GitHub pages which renders static HTML pages t
 | [Christian Knoll](https://www.spsc.tugraz.at/people/christian-knoll.html) | 10.11.2021 | christian.knoll@tugraz.at | TBA | Martin Trapp |
 | [Priyank Jaini](https://priyankjaini.github.io) | 13.10.2021 | jaini.priyank1@gmail.com | TBA | Martin Trapp |
 
+# Prospective speaker (early 2022)
+
+| Speaker | Date | E-Mail | Title | Contact |
+| -------- | -------- | -------- | -------- | -------- |
+| Asael Alonzo Matamoros (Aalto) | - | asael_am@hotmail.com | - | contacted me on twitter |
+
+
 # Invitation e-Mail
 
 ```
