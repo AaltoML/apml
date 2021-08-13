@@ -16,13 +16,13 @@ For more info, please see our recent <a href=\"https://arxiv.org/abs/2106.10210\
   photo: "theo-galy-fajou"
   biography: "Théo Galy-Fajou is a PhD candidate at TU Berlin under the supervision of Prof. Manfred Opper. His work focuses specifically on Gaussian processes and ways to scale them easily to more data and more complex models. He also has a general interest in all approximate Bayesian inference techniques. He is heavily involved in open-source development for inference and visualization techniques of Bayesian methods in the Julia programming language."
 
-- date: September 15, 2021 at 3 pm EEST
-  title: "TBA"
+- date: September 15, 2021 at 5 or 6 pm EEST
+  title: "Finite mixture models do not reliably learn the number of components"
   presenter: "<a href=\"https://www.dianacai.com\", target=\"_blank\">Diana Cai</a>"
   affiliation: "Princeton University"
-  abstract: "TBA"
+  abstract: "Scientists and engineers are often interested in learning the number of subpopulations (or components) present in a data set. A common suggestion is to use a finite mixture model (FMM) with a prior on the number of components. Past work has shown the resulting FMM component-count posterior is consistent; that is, the posterior concentrates on the true, generating number of components. But consistency requires the assumption that the component likelihoods are perfectly specified, which is unrealistic in practice. In this paper, we add rigour to data-analysis folk wisdom by proving that under even the slightest model misspecification, the FMM component-count posterior diverges: the posterior probability of any particular finite number of components converges to 0 in the limit of infinite data. Contrary to intuition, posterior-density consistency is not sufficient to establish this result. We develop novel sufficient conditions that are more realistic and easily checkable than those common in the asymptotics literature. We illustrate the practical consequences of our theory on simulated and real data."
   photo: "diana-cai"
-  biography: "TBA"
+  biography: "Diana Cai is a Ph.D. candidate in computer science at Princeton University and is advised by Ryan Adams and Barbara Engelhardt. Her research spans the areas of machine learning and statistics and focuses on developing robust and scalable methods for probabilistic modelling and inference, with an emphasis on flexible, interpretable, and nonparametric machine learning methods. Previously, Diana obtained an A.B. in computer science and statistics from Harvard University, an M.S. in statistics from the University of Chicago, and an M.A. in computer science from Princeton University. Her research is supported in part by a Google PhD Fellowship in Machine Learning."
 
 - date: September 29, 2021 at 3 pm EEST
   title: "Causal decision-making meets Gaussian Processes"
