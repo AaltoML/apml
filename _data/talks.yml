@@ -16,7 +16,7 @@ For more info, please see our recent <a href=\"https://arxiv.org/abs/2106.10210\
   photo: "theo-galy-fajou"
   biography: "Théo Galy-Fajou is a PhD candidate at TU Berlin under the supervision of Prof. Manfred Opper. His work focuses specifically on Gaussian processes and ways to scale them easily to more data and more complex models. He also has a general interest in all approximate Bayesian inference techniques. He is heavily involved in open-source development for inference and visualization techniques of Bayesian methods in the Julia programming language."
 
-- date: September 15, 2021 at 5 or 6 pm EEST
+- date: September 15, 2021 at 5 pm EEST
   title: "Finite mixture models do not reliably learn the number of components"
   presenter: "<a href=\"https://www.dianacai.com\", target=\"_blank\">Diana Cai</a>"
   affiliation: "Princeton University"
