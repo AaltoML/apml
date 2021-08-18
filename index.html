@@ -85,7 +85,7 @@ layout: default
   $(document).ready(function() {
 
     // Move talk to Past talks one hour after the scheduled time
-    var currentTime = Math.floor(Date.now() / 1000) - 3600;
+    var currentTime = Math.floor(Date.now() / 1000)+2*3600;
 
     console.log('Current unix time: '+currentTime);
 
