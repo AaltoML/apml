@@ -18,6 +18,7 @@ This web page uses Jekyll through GitHub pages which renders static HTML pages t
 | Speaker | Date | E-Mail | Title | Contact |
 | -------- | -------- | -------- | -------- | -------- |
 | Asael Alonzo Matamoros (Aalto) | - | asael_am@hotmail.com | - | contacted me on twitter |
+| Samuel Power | - | - | - | Adrian | 
 
 
 # Invitation e-Mail
