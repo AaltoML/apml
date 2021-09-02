@@ -1,16 +1,19 @@
 - date: August 18, 2021 at 3 pm EEST
   title: "Combining Pseudo-Point and State Space Approximations for Sum-Separable Gaussian Processes"
-  presenter: "<a href=\"https://github.com/willtebbutt\", target=\"_blank\">Will Tebbutt</a>"
+  presenter: "Will Tebbutt"
+  url: https://github.com/willtebbutt
   affiliation: "University of Cambridge"
-  abstract: "State space approximations and pseudo point approximations can be combined in a principled manner to yield scalable approximate inference algorithms for sums of separable Gaussian processes. In this talk, I will: 1. show how this combination can be performed for variational pseudo point approximations via a simple conditional independence result, 2. discuss how existing exact inference algorithms for state space models can be re-purposed for approximate inference, 3. interpret existing related work in light of our work, and 4. briefly discuss some experimental results in a spatio-temporal context.
+  abstract: |
+    State space approximations and pseudo point approximations can be combined in a principled manner to yield scalable approximate inference algorithms for sums of separable Gaussian processes. In this talk, I will: 1. show how this combination can be performed for variational pseudo point approximations via a simple conditional independence result, 2. discuss how existing exact inference algorithms for state space models can be re-purposed for approximate inference, 3. interpret existing related work in light of our work, and 4. briefly discuss some experimental results in a spatio-temporal context.
  
-For more info, please see our recent <a href=\"https://arxiv.org/abs/2106.10210\", target=\"_blank\">UAI paper</a>."
+    For more info, please see our recent [UAI paper](https://arxiv.org/abs/2106.10210).
   photo: "will-tebbutt"
   biography: "Will is a PhD student with Rich Turner in the Machine Learning Group at Cambridge, and is interested in probabilistic modelling in general. He is particularly interested in Gaussian processes: how to specify and scale them in large spatio-temporal settings, how best to write software to work with them, and challenges faced in climate science for which they might be helpful."
 
 - date: September 01, 2021 at 3 pm EEST
   title: "Automated Augmented Conjugate Inference for Gaussian Processes"
-  presenter: "<a href=\"https://theogf.github.io\", target=\"_blank\">Théo Galy-Fajou</a>"
+  presenter: "Théo Galy-Fajou"
+  url: https://theogf.github.io
   affiliation: "TU Berlin"
   abstract: "Gaussian Processes are a tool of choice for modelling functions with uncertainties. However, the inference is only tractable analytically for the classical case of regression with Gaussian noise since all other likelihoods are not conjugate with the Gaussian prior. In this talk, I will show how one can transform a large class of likelihoods into conditional conjugate distributions by augmenting them with latent variables. These augmented models have the advantage that, while the posterior inference is still not fully analytic, the full conditionals are! Consequently, one can work easily (and efficiently!) with algorithms like Gibbs sampling or Coordinate Ascent VI (CAVI) and outperform existing inference methods."
   photo: "theo-galy-fajou"
@@ -18,7 +21,8 @@ For more info, please see our recent <a href=\"https://arxiv.org/abs/2106.10210\
 
 - date: September 15, 2021 at 5 pm EEST
   title: "Finite Mixture Models Do Not Reliably Learn the Number of Components"
-  presenter: "<a href=\"https://www.dianacai.com\", target=\"_blank\">Diana Cai</a>"
+  presenter: "Diana Cai"
+  url: https://www.dianacai.com
   affiliation: "Princeton University"
   abstract: "Scientists and engineers are often interested in learning the number of subpopulations (or components) present in a data set. A common suggestion is to use a finite mixture model (FMM) with a prior on the number of components. Past work has shown the resulting FMM component-count posterior is consistent; that is, the posterior concentrates on the true, generating number of components. But consistency requires the assumption that the component likelihoods are perfectly specified, which is unrealistic in practice. In this paper, we add rigour to data-analysis folk wisdom by proving that under even the slightest model misspecification, the FMM component-count posterior diverges: the posterior probability of any particular finite number of components converges to 0 in the limit of infinite data. Contrary to intuition, posterior-density consistency is not sufficient to establish this result. We develop novel sufficient conditions that are more realistic and easily checkable than those common in the asymptotics literature. We illustrate the practical consequences of our theory on simulated and real data."
   photo: "diana-cai"
@@ -26,7 +30,8 @@ For more info, please see our recent <a href=\"https://arxiv.org/abs/2106.10210\
 
 - date: September 29, 2021 at 3 pm EEST
   title: "Causal Decision-making Meets Gaussian Processes"
-  presenter: "<a href=\"https://warwick.ac.uk/fac/sci/statistics/staff/research_students/aglietti/\", target=\"_blank\">Virginia Aglietti</a>"
+  presenter: "Virginia Aglietti"
+  url: https://warwick.ac.uk/fac/sci/statistics/staff/research_students/aglietti/
   affiliation: "University of Warwick / DeepMind"
   abstract: "Solving decision-making problems in a variety of domains such as healthcare or operations research requires experimentation. By performing interventions, one can understand how a system behaves when an action is taken and thus infer the cause-effect relationships of a phenomenon. Experiments are usually expensive, time-consuming, and may present ethical issues. Therefore, researchers generally have to trade-off cost, time, and other practical considerations to decide which experiments to conduct in order to learn about a system. In this talk, I will present two methodologies that, by linking causal inference, experimental design and Gaussian process (GP) modelling, allow to efficiently learn the causal effects in a graph and identify the optimal intervention to perform. Firstly, I will show how to construct a multi-task causal GP model, the DAG-GP model, which captures the non-trivial correlation structure across different experimental outputs. By sharing experimental information, the DAG-GP model accurately estimates the causal effects in a variety of experimental settings while enabling proper uncertainty quantification. I will then demonstrate how this model, and more generally GP models, can be used within decision-making algorithm to choose experiments to perform. Particularly, I will introduce the Causal Bayesian Optimization algorithm, and I will show how incorporating the knowledge of the causal graph in Bayesian Optimization improves the ability to reason about optimal decision making while decreasing the optimization cost and avoiding suboptimal solutions."
   photo: "virginia-aglietti"
@@ -34,7 +39,8 @@ For more info, please see our recent <a href=\"https://arxiv.org/abs/2106.10210\
 
 - date: October 13, 2021 at 3 pm EEST
   title: "Incorporating Symmetries in Probabilistic Modelling"
-  presenter: "<a href=\"https://priyankjaini.github.io\", target=\"_blank\">Priyank Jaini</a>"
+  presenter: "Priyank Jaini"
+  url: https://priyankjaini.github.io
   affiliation: "University of Amsterdam"
   abstract: "TBA"
   photo: "priyank-jaini"
@@ -42,14 +48,16 @@ For more info, please see our recent <a href=\"https://arxiv.org/abs/2106.10210\
 
 - date: October 27, 2021 at 6 pm EEST
   title: "Probabilistic Reasoning for Fair and Robust Decision Making"
-  presenter: "<a href=\"http://web.cs.ucla.edu/~yjchoi/\", target=\"_blank\">YooJung Choi</a>"
+  presenter: "YooJung Choi"
+  url: http://web.cs.ucla.edu/~yjchoi/
   affiliation: "UCLA"
   abstract: "TBA"
   biography: "TBA"
 
 - date: November 10, 2021 at 3 pm EEST
   title: "TBA"
-  presenter: "<a href=\"https://www.spsc.tugraz.at/people/christian-knoll.html\", target=\"_blank\">Christian Knoll</a>"
+  presenter: "Christian Knoll"
+  url: https://www.spsc.tugraz.at/people/christian-knoll.html
   affiliation: "TU Graz"
   abstract: "TBA"
   photo: "christian-knoll"
@@ -57,7 +65,8 @@ For more info, please see our recent <a href=\"https://arxiv.org/abs/2106.10210\
 
 - date: November 24, 2021 at 3pm EEST
   title: "TBA"
-  presenter: "<a href=\"https://jtt94.github.io/\", target=\"_blank\">James Thornton</a>"
+  presenter: "James Thornton"
+  url: https://jtt94.github.io/
   affiliation: "University of Oxford"
   abstract: "TBA"
   photo: "james-thornton"
