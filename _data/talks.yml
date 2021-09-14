@@ -38,13 +38,13 @@
   biography: "Virginia is a final year PhD student in Statistics at the University of Warwick and a visiting researcher at The Alan Turing Institute. She is supervised by Dr. Theodoros Damoulas. In September, Virginia will join DeepMind as a Research Scientist to work on causal probabilistic models. Virginia is interested in linking probabilistic models, specifically Gaussian processes, and causality to develop algorithms for causal decision making under uncertainty. She has expertise in working with Gaussian processes and variational inference, with a particular focus on models for point processes. In terms of applications, she is particularly interested in spatio-temporal problems in the social sciences."
 
 - date: October 13, 2021 at 3 pm EEST
-  title: "Incorporating Symmetries in Probabilistic Modelling"
+  title: "Equivariant Probabilistic Generative Modelling"
   presenter: "Priyank Jaini"
   url: https://priyankjaini.github.io
   affiliation: "University of Amsterdam"
-  abstract: "TBA"
+  abstract: "In this talk, I will discuss recent work on developing generative models for efficient sampling and inference by incorporating inductive biases in the form of equivariances. I will begin by introducing the Equivariant Stein Variational Gradient Descent algorithm -- an equivariant sampling method based on Stein's identity for sampling from densities with symmetries. Equivariant SVGD explicitly incorporates symmetry information in a density through equivariant kernels, which makes the resultant sampler efficient both in terms of sample complexity and the quality of generated samples. Subsequently, I will demonstrate the use of Equivariant SVGD by defining equivariant energy-based models to model invariant densities that are learned using contrastive divergence. I will then discuss the applications of these equivariant energy models for modelling joint densities in regression and classification tasks for image datasets, many-body particle systems and molecular structure generation. Finally, if time permits, I will touch on methods for sampling using diffusion models and neural transport augmented Monte Carlo methods for more efficient sampling in discrete spaces with applications in denoising, Bayesian posterior sampling, and training light-weight Bayesian quantised neural nets."
   photo: "priyank-jaini"
-  biography: "TBA"
+  biography: "Priyank Jaini is a postdoctoral researcher at the University of Amsterdam and Bosch-Delta Lab, working with Prof. Max Welling. Before that, he completed his PhD at the University of Waterloo under the supervision of Prof. Pascal Poupart and Prof. Yaoliang Yu, where he received the doctoral dissertation award from the faculty of Math for his PhD thesis. His research interests lie in building tractable probabilistic models for reasoning under uncertainty. Recently, he has been interested in incorporating inductive biases in the form of symmetries through equivariances in probabilistic modelling and applying them to downstream tasks like molecular generation and modelling many-body particle systems."
 
 - date: October 27, 2021 at 6 pm EEST
   title: "Probabilistic Reasoning for Fair and Robust Decision Making"
@@ -70,4 +70,4 @@
   affiliation: "University of Oxford"
   abstract: "TBA"
   photo: "james-thornton"
-  biography: ""
+  biography: "TBA"
