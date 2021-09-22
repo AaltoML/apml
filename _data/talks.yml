@@ -51,8 +51,9 @@
   presenter: "YooJung Choi"
   url: http://web.cs.ucla.edu/~yjchoi/
   affiliation: "UCLA"
-  abstract: "TBA"
-  biography: "TBA"
+  abstract: "Automated decision-making systems are increasingly being deployed in areas with personal and societal impacts: from personalized ads to medical diagnosis and criminal justice. This led to growing interest and need for trustworthy AI and ML systems - that is, models that are robust, explainable, fair, and so on. It is important to note that these guarantees only hold with respect to a certain model of the world, with inherent uncertainties. In this talk, I will present how probabilistic modelling and inference, by incorporating a distribution, offer a principled way to handle different kinds of uncertainties when reasoning about decision-making system behaviours. For example, labels in training data may be biased; I will show that probabilistic circuits, a class of tractable probabilistic models (TPMs), can be effective in enforcing and auditing fairness properties by explicitly modelling a latent unbiased label. Another common source of uncertainty is missing values at prediction time, which also leads to fairness and robustness queries that account for this to be computationally hard inference tasks. I will also demonstrate how TPMs can again tractably answer these complex queries."
+  photo: "yoo-jung-choi"
+  biography: "YooJung Choi is a Ph.D. candidate in the Computer Science Department at UCLA, advised by Prof. Guy Van den Broeck. Her research is broadly in the areas of artificial intelligence and machine learning, with a focus on probabilistic modelling and inference for automated decision-making. In particular, she is interested in developing algorithms for tractable inference of complex queries and characterizing the boundaries of tractable inference. Her work also focuses on applying these results to address fairness, robustness, explainability, and in general, aim towards trustworthy AI/ML."
 
 - date: November 10, 2021 at 3 pm EEST
   title: "TBA"
