@@ -56,13 +56,13 @@
   biography: "YooJung Choi is a Ph.D. candidate in the Computer Science Department at UCLA, advised by Prof. Guy Van den Broeck. Her research is broadly in the areas of artificial intelligence and machine learning, with a focus on probabilistic modelling and inference for automated decision-making. In particular, she is interested in developing algorithms for tractable inference of complex queries and characterizing the boundaries of tractable inference. Her work also focuses on applying these results to address fairness, robustness, explainability, and in general, aim towards trustworthy AI/ML."
 
 - date: November 10, 2021 at 3 pm EEST
-  title: "TBA"
+  title: "Probabilistic Inference, Message Passing, and Hybrid Models"
   presenter: "Christian Knoll"
   url: https://www.spsc.tugraz.at/people/christian-knoll.html
   affiliation: "TU Graz"
-  abstract: "TBA"
+  abstract: "Probabilistic graphical models are flexible models for representing complex high-dimensional distributions and for incorporating domain knowledge in an intuitive and expressive way. For making probabilistic inference, one often relies on recursive message passing methods. While these methods are efficient for restricted model classes (e.g., for trees), they only serve as approximation methods for more complex models. In this talk, I will show how we can enhance the performance of message passing methods from two opposing angles: i.e., by simplifying the model itself with the utilized inference method in mind and by modifying the inference method with the underlying model in mind. Therefore, I will show how we can advance our understanding of message passing methods by considering them as a dynamic system and by applying tools from system theory. These insights will then suggest various improvements. Recently, we have also complemented message passing methods by neural networks. I will discuss how such hybrid models benefit from the flexibility of neural networks in combination with the implicit underlying model assumptions."
   photo: "christian-knoll"
-  biography: "TBA"
+  biography: "Christian Knoll is a postdoc researcher at the signal processing and speech communications laboratory at the Graz University of Technology. His research interests include machine learning, statistical signal processing, and probabilistic graphical models. He is particularly interested in understanding and improving message passing methods for performing probabilistic inference in graphical models. Recently, he has also been interested in combining graphical models with neural networks."
 
 - date: November 24, 2021 at 3pm EEST
   title: "TBA"
