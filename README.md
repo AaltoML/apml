@@ -19,7 +19,8 @@ This web page uses Jekyll through GitHub pages which renders static HTML pages t
 | -------- | -------- | -------- | -------- | -------- |
 | Asael Alonzo Matamoros (Aalto) | - | asael_am@hotmail.com | - | contacted me on twitter |
 | Samuel Power (Briston) | - | - | - | Adrian Corenflos | 
-| Adrian Corenflos (Aalto) | - | - | - | Adrian Corenflos | 
+| Adrian Corenflos (Aalto) | - | - | - | Adrian Corenflos |
+| Gianluigi Silvestri | - | Gianluigi.Silvestri@imec.nl | - | He contacted us |
 
 
 # Invitation e-Mail
