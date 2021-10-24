@@ -47,7 +47,7 @@
   biography: "Priyank Jaini is a postdoctoral researcher at the University of Amsterdam and Bosch-Delta Lab, working with Prof. Max Welling. Before that, he completed his PhD at the University of Waterloo under the supervision of Prof. Pascal Poupart and Prof. Yaoliang Yu, where he received the doctoral dissertation award from the faculty of Math for his PhD thesis. His research interests lie in building tractable probabilistic models for reasoning under uncertainty. Recently, he has been interested in incorporating inductive biases in the form of symmetries through equivariances in probabilistic modelling and applying them to downstream tasks like molecular generation and modelling many-body particle systems."
 
 - date: October 27, 2021 at 6 pm EEST
-  title: "Probabilistic Reasoning for Fair and Robust Decision Making"
+  title: "Tractable Probabilistic Reasoning for Trustworthy AI"
   presenter: "YooJung Choi"
   url: http://web.cs.ucla.edu/~yjchoi/
   affiliation: "UCLA"
