@@ -55,7 +55,7 @@
   photo: "yoo-jung-choi"
   biography: "YooJung Choi is a Ph.D. candidate in the Computer Science Department at UCLA, advised by Prof. Guy Van den Broeck. Her research is broadly in the areas of artificial intelligence and machine learning, with a focus on probabilistic modelling and inference for automated decision-making. In particular, she is interested in developing algorithms for tractable inference of complex queries and characterizing the boundaries of tractable inference. Her work also focuses on applying these results to address fairness, robustness, explainability, and in general, aim towards trustworthy AI/ML."
 
-- date: November 10, 2021 at 3 pm EEST
+- date: November 10, 2021 at 3 pm EET
   title: "Probabilistic Inference, Message Passing, and Hybrid Models"
   presenter: "Christian Knoll"
   url: https://www.spsc.tugraz.at/people/christian-knoll.html
@@ -64,7 +64,7 @@
   photo: "christian-knoll"
   biography: "Christian Knoll is a postdoc researcher at the signal processing and speech communications laboratory at the Graz University of Technology. His research interests include machine learning, statistical signal processing, and probabilistic graphical models. He is particularly interested in understanding and improving message passing methods for performing probabilistic inference in graphical models. Recently, he has also been interested in combining graphical models with neural networks."
 
-- date: November 24, 2021 at 3pm EEST
+- date: November 24, 2021 at 3pm EET
   title: "TBA"
   presenter: "James Thornton"
   url: https://jtt94.github.io/
