@@ -28,7 +28,7 @@ layout: default
 <div class="jumbotron information">
   {{ site.information | markdownify }}
   <div class="text-center">
-    <a class="btn btn-success btn-lg register-btn" href="{{ site.registration }}">{% if site.registration %}Register for the seminar{% else %}Registration opening soon{% endif %}</a>
+    <a class="btn btn-success btn-lg register-btn" href="{{ site.registration }}">{% if site.registration %}Register for the seminar{% else %}Registration closed{% endif %}</a>
   </div>
   {{ site.details | markdownify }}
   <div id="hosted-by">Seminar organizers {{ site.organizers | markdownify | remove: '<p>' | remove: '</p>' }}</div>
