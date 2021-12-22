@@ -1,6 +1,19 @@
 This web page uses Jekyll through GitHub pages which renders static HTML pages that are accessible at [https://aaltoml.github.io/apml/](https://aaltoml.github.io/apml/).
 
-# List of speakers:
+# Prospective speaker (2022)
+
+| Speaker | Date | E-Mail | Title | Contact |
+| -------- | -------- | -------- | -------- | -------- |
+| Asael Alonzo Matamoros (Aalto) | - | asael_am@hotmail.com | - | contacted me on twitter |
+| Sam Power (Briston) | - | sam.power@bristol.ac.uk | - | Adrian Corenflos | 
+| Adrian Corenflos (Aalto) | - | adrien.corenflos@aalto.fi | - | Adrian Corenflos |
+| Gianluigi Silvestri (Donders Institute, NL) | - | Gianluigi.Silvestri@imec.nl | - | He contacted us |
+| Agustinus Kristiadi | - | agustinus.kristiadi@uni-tuebingen.de | - | Martin |
+| 
+
+
+
+# List of speakers (2021):
 
 | Speaker | Date | E-Mail | Title | Contact |
 | -------- | -------- | -------- | -------- | -------- |
@@ -13,14 +26,7 @@ This web page uses Jekyll through GitHub pages which renders static HTML pages t
 | [Christian Knoll](https://www.spsc.tugraz.at/people/christian-knoll.html) | 10.11.2021 | christian.knoll@tugraz.at | TBA | Martin Trapp |
 | [Priyank Jaini](https://priyankjaini.github.io) | 13.10.2021 | jaini.priyank1@gmail.com | TBA | Martin Trapp |
 
-# Prospective speaker (early 2022)
 
-| Speaker | Date | E-Mail | Title | Contact |
-| -------- | -------- | -------- | -------- | -------- |
-| Asael Alonzo Matamoros (Aalto) | - | asael_am@hotmail.com | - | contacted me on twitter |
-| Samuel Power (Briston) | - | - | - | Adrian Corenflos | 
-| Adrian Corenflos (Aalto) | - | - | - | Adrian Corenflos |
-| Gianluigi Silvestri (Donders Institute) | - | Gianluigi.Silvestri@imec.nl | - | He contacted us |
 
 
 # Invitation e-Mail
