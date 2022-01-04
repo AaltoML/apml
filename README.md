@@ -2,14 +2,16 @@ This web page uses Jekyll through GitHub pages which renders static HTML pages t
 
 # Prospective speaker (2022)
 
-| Speaker | Date | E-Mail | Title | Contact |
+| Speaker | Confirmed? | E-Mail | Affiliation | Invited? |
 | -------- | -------- | -------- | -------- | -------- |
-| Asael Alonzo Matamoros (Aalto) | - | asael_am@hotmail.com | - | contacted me on twitter |
-| Sam Power (Briston) | - | sam.power@bristol.ac.uk | - | Adrian Corenflos | 
-| Adrian Corenflos (Aalto) | - | adrien.corenflos@aalto.fi | - | Adrian Corenflos |
-| Gianluigi Silvestri (Donders Institute, NL) | - | Gianluigi.Silvestri@imec.nl | - | He contacted us |
-| Agustinus Kristiadi | - | agustinus.kristiadi@uni-tuebingen.de | - | Martin |
-| 
+| Asael Alonzo Matamoros | - | asael_am@hotmail.com | Aalto | contacted me |
+| Sam Power | - | sam.power@bristol.ac.uk | Briston | - | 
+| Adrian Corenflos | - | adrien.corenflos@aalto.fi | Aalto | contacted me |
+| Gianluigi Silvestri | yes | Gianluigi.Silvestri@imec.nl | Donders Institute, NL | contacted us |
+| Agustinus Kristiadi | - | agustinus.kristiadi@uni-tuebingen.de | Uni Tübingen | yes |
+| Javier Antorán | yes | ja666@cam.ac.uk | CBL | yes |
+| T. Anderson Keller | yes | akandykeller@gmail.com | University of Amsterdam | yes |
+
 
 
 
