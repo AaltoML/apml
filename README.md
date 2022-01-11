@@ -6,13 +6,13 @@ This web page uses Jekyll through GitHub pages which renders static HTML pages t
 | -------- | -------- | -------- | -------- | -------- |
 | Asael Alonzo Matamoros | - | asael_am@hotmail.com | Aalto | contacted me |
 | Sam Power | - | sam.power@bristol.ac.uk | Briston | - | 
-| Adrian Corenflos | - | adrien.corenflos@aalto.fi | Aalto | contacted me |
+| Adrian Corenflos | maybe | adrien.corenflos@aalto.fi | Aalto | contacted me |
 | Gianluigi Silvestri | yes | Gianluigi.Silvestri@imec.nl | Donders Institute, NL | contacted us |
 | Agustinus Kristiadi | yes | agustinus.kristiadi@uni-tuebingen.de | Uni Tübingen | yes |
 | Javier Antorán | yes | ja666@cam.ac.uk | CBL | yes |
 | T. Anderson Keller | yes | akandykeller@gmail.com | University of Amsterdam | yes |
 | Desi Ivanova | yes | desi.r.ivanova@gmail.com | Oxford | yes |
-| Anna Wigren | | anna.wigren@it.uu.se | Uppsala | yes | 
+| Anna Wigren | - | anna.wigren@it.uu.se | Uppsala | yes | 
 
 
 
