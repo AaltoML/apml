@@ -12,7 +12,7 @@ This web page uses Jekyll through GitHub pages which renders static HTML pages t
 | Javier Antorán | yes | ja666@cam.ac.uk | CBL | yes |
 | T. Anderson Keller | yes | akandykeller@gmail.com | University of Amsterdam | yes |
 | Desi Ivanova | yes | desi.r.ivanova@gmail.com | Oxford | yes |
-| Anna Wigren | - | anna.wigren@it.uu.se | Uppsala | yes | 
+| Anna Wigren | yes | anna.wigren@it.uu.se | Uppsala | yes | 
 | Ricky Tian Qi Chen | - | rtqichen@gmail.com | University of Toronto | yes |
 
 
