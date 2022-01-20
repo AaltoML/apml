@@ -98,7 +98,7 @@ layout: default
 
     // Add label if there are past talks
     if (parseInt($("#talk-list article").first().attr("datetime")) < currentTime) {
-        $("#past-talks").prepend("<h2>Past talks</h2>");
+        $("#past-talks").prepend("<br /><hr><br /><h2>Past talks</h2>");
     }
 
     // Move past talks to Past Talks list
