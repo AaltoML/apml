@@ -80,12 +80,13 @@
   photo: "andy-keller"
 
 - date: March 17, 2022 at 3pm EET
-  title: "TBA"
+  title: "Bayesian Deep Learning with Linearised Neural Networks"
   presenter: "Javier Antorán"
   url: https://javierantoran.github.io/about/
   affiliation: "University of Cambridge"
-  abstract: "TBA"
-  biography: "TBA"
+  abstract: "Despite their ubiquitousness in modern data-driven decision-making systems, neural networks are not very well understood. A symptom of this is that network hyperparameters are almost always chosen via cross-validation, an expensive approach that scales poorly in the number of hyperparameters. Additionally, obtaining robust uncertainty estimates for neural network predictions remains an open problem. The probabilistic framework holds the promise of providing both an objective for model selection and reliable uncertainty estimates. However, for the case of neural networks exact probabilistic inference is intractable. This talk introduces the Linearised Laplace approximation for Bayesian deep learning. We examine the assumptions behind linearised Laplace, particularly in conjunction with model selection. We show that these interact poorly with some now-standard features of deep learning—stochastic approximation methods and normalisation layers—and make recommendations for how to better adapt this classic method to the modern setting. We provide Theoretical support of our recommendations and validate them empirically on MLPs, classic CNNs, residual networks with and without normalisation layers, generative autoencoders and transformers. As a case study, we deep dive into Bayesian deep learning methods for tomographic reconstruction. Using linearised Laplace, we construct a probabilistic Deep Image Prior over reconstructed images. Inference in this model allows us to choose U-Net architecture parameters without the need for cross-validation and yields state of the art uncertainty calibration for tomographic reconstruction."
+  biography: "Javier Antorán is a third-year PhD student at the University of Cambridge, supervised by Jose Miguel Hernandez-Lobato and Max Welling. His research focuses on probabilistic modelling and inference. Specifically, Javier’s research spans Bayesian deep learning, Gaussian processes, causal inference and interpretable machine learning. Previously to starting his PhD, Javier worked as a telecommunications engineer developing communications infrastructure for the ATLAS experiment at CERN, and co-founded the startup ARISE, which develops machine learning technology to increase the efficiency of the process in the agricultural sector."
+  photo: "javier-antoran"
 
 - date: March 31, 2022 at 3pm EET
   title: "The Coupled Rejection Sampler"
