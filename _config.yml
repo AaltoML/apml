@@ -13,7 +13,7 @@ exclude:
   - .sass-cache
 
 title: "Seminar on Advances in Probabilistic Machine Learning"
-description: "Aalto University Seminar on Advances in Probabilistic Machine Learning"
+description: "Aalto University and ELLIS unit Helsinki Seminar on Advances in Probabilistic Machine Learning"
 
 information: This seminar series aims to provide a platform for young researchers (PhD student or post-doc level) to give invited talks about their research, intending to have a diverse set of talks & speakers on topics related to probabilistic machine learning. 
 
