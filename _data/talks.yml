@@ -97,12 +97,12 @@
   biography: "Adrien Corenflos is a PhD student at Aalto university under Simo Särkkä. Prior to this, he worked as a quantitative researcher at JP Morgan, UK. His research interests typically orbit around Monte Carlo methods for machine learning, with an emphasis on sequential Monte Carlo."
 
 - date: April 14, 2022 at 3pm EET
-  title: "Tentative: Low-Cost Bayesian Methods for Mitigating Overconfidence in Neural Networks"
+  title: "Low-Cost Bayesian Methods for Fixing Neural Nets' Overconfidence"
   presenter: "Agustinus Kristiadi"
   url: https://agustinus.kristia.de
   affiliation: "University of Tübingen"
-  abstract: "TBA"
-  biography: "TBA"
+  abstract: "Well-calibrated predictive uncertainty of neural networks---essentially making them know when they don't know---is paramount in safety-critical applications. However, deep neural networks are overconfident in the region both far away and near the training data. In our works, we study Bayesian neural networks (BNNs) and their extensions to mitigate this issue. First, we show that being Bayesian, even just at the last layer and in a _post-hoc_ manner, helps mitigate overconfidence in deep ReLU classifiers. Then, we provide a cost-effective Gaussian-process extension to ReLU BNNs that provides a guarantee that ReLU nets will never be overconfident in the region far from the data. Furthermore, we propose two ways of improving the calibration of general BNNs in the out-of-distribution (OOD) regions near the data by (i) training the uncertainty of Laplace approximations and (ii) by leveraging OOD data during training. Finally, we provide a simple library, `laplace-torch`, to facilitate modern arts of Laplace approximations in deep learning. This library gives users a way to turn a standard pre-trained deep net into a BNN in a cost-efficient manner."
+  biography: "Agustinus Kristiadi is a last-year Ph.D. student at the University of Tübingen, under the supervision of Philipp Hennig. Before this, he studied computer science at the University of Bonn under Asja Fischer. His current interest is in the intersection between Bayesian deep learning and Riemannian geometry."
   photo: "augustinus-kristia"
 
 - date: April 28, 2022 at 3pm EET
