@@ -107,12 +107,12 @@
   photo: "augustinus-kristia"
 
 - date: April 28, 2022 at 3pm EET
-  title: "Tentative: Embedded-model Flows: Combining the Inductive Biases of Model-free Deep Learning and Explicit Probabilistic Modeling"
+  title: "Embedded-model flows: Combining the inductive biases of model-free deep learning and explicit probabilistic modeling"
   presenter: "Gianluigi Silvestri"
   url: https://www.theunconsciousstatistician.com
   affiliation: "OnePlanet Research Center and Donders Institute for Brain, Cognition and Behaviour"
-  abstract: "TBA"
-  biography: "TBA"
+  abstract: "Normalizing flows have shown great success as general-purpose density estimators. However, many real-world applications require the use of domain-specific knowledge, which normalizing flows cannot readily incorporate. We propose embedded-model flows (EMF), which alternate general-purpose transformations with structured layers that embed domain-specific inductive biases. These layers are automatically constructed by converting user-specified differentiable probabilistic models into equivalent bijective transformations. We also introduce gated structured layers, which allow bypassing the parts of the models that fail to capture the statistics of the data. We demonstrate that EMFs can be used to induce desirable properties such as multimodality, hierarchical coupling and continuity. Furthermore, we show that EMFs enable a high-performance form of variational inference where the structure of the prior model is embedded in the variational architecture. In our experiments, we show that this approach outperforms state-of-the-art methods in common structured inference problems."
+  biography: "Gianluigi Silvestri is a PhD candidate in Probabilistic Machine Learning at OnePlanet Research Center and Donders Institute for Brain, Cognition and Behaviour, in Nijmegen, the Netherlands. His research interests include Variational Inference, Normalizing Flows and Bayesian Reinforcement Learning."
   photo: "Gianluigi-Silvestri"
 
 - date: May 12, 2022 at 3pm EET
