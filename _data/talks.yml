@@ -95,6 +95,7 @@
   affiliation: "Aalto University"
   abstract: "Coupling methods have recently been used to compute unbiased estimates of Markov chains Monte Carlo and particle smoothing expectations. However, in most cases, sampling from couplings has a random run time, the variance of which can be infinite. This behaviour, acceptable in distributed computing, is highly problematic in the parallel computing framework. We propose a limited variance coupled rejection sampling method for sampling from couplings of arbitrary distributions. We show how we can modify the coupled rejection method to propose an ensemble of proposals so as to asymptotically recover a maximal coupling while decreasing the total run time of the algorithm. We then discuss the important special case of coupling Gaussian distributions with different means and covariances, and show how the rejection sampling method can be optimised in this case. We then apply the method to sampling from couplings of Gaussian tails, perform coupled Gibbs sampling, couple parallel resampling algorithms in particle filtering, and couple manifold MALA."
   biography: "Adrien Corenflos is a PhD student at Aalto university under Simo Särkkä. Prior to this, he worked as a quantitative researcher at JP Morgan, UK. His research interests typically orbit around Monte Carlo methods for machine learning, with an emphasis on sequential Monte Carlo."
+  photo: "adrien_corenflos"
 
 - date: April 14, 2022 at 3pm EET
   title: "Low-Cost Bayesian Methods for Fixing Neural Nets' Overconfidence"
