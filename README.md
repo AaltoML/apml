@@ -1,35 +1,11 @@
 This web page uses Jekyll through GitHub pages which renders static HTML pages that are accessible at [https://aaltoml.github.io/apml/](https://aaltoml.github.io/apml/).
 
-# Prospective speaker (2022)
+# Prospective speakers (fall 2022)
 
-| Speaker | Confirmed? | E-Mail | Affiliation | Invited? |
-| -------- | -------- | -------- | -------- | -------- |
-| Asael Alonzo Matamoros | - | asael_am@hotmail.com | Aalto | contacted me |
-| Sam Power | - | sam.power@bristol.ac.uk | Briston | - | 
-| Adrian Corenflos | maybe | adrien.corenflos@aalto.fi | Aalto | contacted me |
-| Gianluigi Silvestri | yes | Gianluigi.Silvestri@imec.nl | Donders Institute, NL | contacted us |
-| Agustinus Kristiadi | yes | agustinus.kristiadi@uni-tuebingen.de | Uni Tübingen | yes |
-| Javier Antorán | yes | ja666@cam.ac.uk | CBL | yes |
-| T. Anderson Keller | yes | akandykeller@gmail.com | University of Amsterdam | yes |
-| Desi Ivanova | yes | desi.r.ivanova@gmail.com | Oxford | yes |
-| Anna Wigren | yes | anna.wigren@it.uu.se | Uppsala | yes | 
-| Ricky Tian Qi Chen | - | rtqichen@gmail.com | University of Toronto | yes |
-
-
-
-# List of speakers (2021):
-
-| Speaker | Date | E-Mail | Title | Contact |
-| -------- | -------- | -------- | -------- | -------- |
-| [Théo Galy-Fajou](https://theogf.github.io) | 01.09.2021 | galy-fajou@tu-berlin.de | Automated Augmentated Conjugate Inference for Gaussian Processes | Martin Trapp |
-| [Virginia Aglietti](https://www.turing.ac.uk/people/researchers/virginia-aglietti) | 29.09.2021 (?) | agliettivirginia@gmail.com | TBA | Will Wilkinson |
-| [Diana Cai](https://www.dianacai.com) | 15.09.2021 | dcai@cs.princeton.edu | TBA | Martin Trapp |
-| [James Thornton](https://jtt94.github.io/) | 24.11.2021 | james.thornton@spc.ox.ac.uk | TBA | Adrien Corenflos |
-| [Will Tebbutt](https://willtebbutt.github.io)  | 18.08.2021 | wct23@cam.ac.uk | Combining Pseudo-Point and State Space Approximations for Sum-Separable Gaussian processes | Martin Trapp |
-| [YooJung Choi](http://web.cs.ucla.edu/~yjchoi/) | 27.10.2021 (?) | yjchoi@cs.ucla.edu | TBA | Martin Trapp |
-| [Christian Knoll](https://www.spsc.tugraz.at/people/christian-knoll.html) | 10.11.2021 | christian.knoll@tugraz.at | TBA | Martin Trapp |
-| [Priyank Jaini](https://priyankjaini.github.io) | 13.10.2021 | jaini.priyank1@gmail.com | TBA | Martin Trapp |
-
+| Speaker | Status | E-Mail | Affiliation |
+| -------- | -------- | -------- | -------- |
+| Vincent Fortuin | reached Martin via e-mail, Martin asked if available in fall 2022 | vbf21@cam.ac.uk | ETH |
+| Rickard Karlsson | reached Martin via e-mail, Martin asked if available in fall 2022 | R.K.A.Karlsson@tudelft.nl | TU Delft |
 
 
 
