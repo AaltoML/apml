@@ -4,8 +4,8 @@ This web page uses Jekyll through GitHub pages which renders static HTML pages t
 
 | Speaker | Status | E-Mail | Affiliation |
 | -------- | -------- | -------- | -------- |
-| Vincent Fortuin | reached Martin via e-mail, Martin asked if available in fall 2022 | vbf21@cam.ac.uk | ETH |
-| Rickard Karlsson | reached Martin via e-mail, Martin asked if available in fall 2022 | R.K.A.Karlsson@tudelft.nl | TU Delft |
+| Vincent Fortuin | reached Martin via e-mail, accepted for fall 2022 | vbf21@cam.ac.uk | ETH |
+| Rickard Karlsson | reached Martin via e-mail, accepted for fall 2022 | R.K.A.Karlsson@tudelft.nl | TU Delft |
 
 
 
