@@ -124,12 +124,12 @@
   biography: "TBA"
 
 - date: May 26, 2022 at 3pm EET
-  title: "Tentative: Adaptive Bayesian Experimental Design in Real Time"
+  title: "Adaptive Design in Real Time"
   presenter: "Desi Ivanova"
   url: https://desirivanova.com
   affiliation: "University of Oxford"
-  abstract: "TBA"
-  biography: "TBA"
+  abstract: "Designing sequences of adaptive experiments to maximise the information gathered about an underlying process is a key challenge in science and engineering. Bayesian Experimental Design (BED) is a powerful mathematical framework for tackling the optimal design problem. Despite the huge potential of obtaining information more quickly and efficiently, the widespread adoption of adaptive BED has been severely limited by the costly computations required at each experiment iteration. In this talk, I'll present a new method, called Deep Adaptive Design (DAD), that alleviates this problem. DAD marks a critical change from previous BED methods in that it optimises a policy instead of individual designs during the experiment. The policy is parametrised by a neural network, taking as inputs past data and returning the design to use at the next experiment iteration. Using a single pass through the network, DAD enables quick and adaptive design decisions in real time."
+  biography: "Desi Ivanova is a second-year grad student at the University of Oxford, working with Tom Rainforth and Yee Whye Teh. Her research interests include probabilistic machine learning and inference with applications to experimental design, causality and data compression. Before joining Oxford, Desi worked as a quantitative researcher at Goldman Sachs."
   photo: "Desi-Ivanova"
 
 - date: June 09, 2022 at 3pm EET
