@@ -116,12 +116,13 @@
   photo: "Gianluigi-Silvestri"
 
 - date: May 12, 2022 at 3pm EEST
-  title: "TBA"
+  title: "Parameter elimination in particle Gibbs sampling"
   presenter: "Anna Wigren"
   url: https://www.it.uu.se/katalog/annwi999/main
   affiliation: "Uppsala University"
-  abstract: "TBA"
-  biography: "TBA"
+  photo: "anna_wigren"
+  abstract: "Bayesian joint parameter and state inference in non-linear state-space models is a difficult problem due to the often high-dimensional state sequence. Particle Gibbs (PG) is well-suited for solving this type of inference problem but produces correlated samples. In this talk, I describe how the correlation can be reduced by marginalizing out one or more parameters from the state update when conjugacy relations exist between the parameter prior and the complete data likelihood. Deriving the marginalized conjugacy relations is often time-consuming, but probabilistic programming can be employed to automate the process. I also introduce a marginalized PG sampler for multiple time series described by a common state-space model structure, where subsets of the parameters are shared between different models. The spread of mosquito-borne diseases, where some parameters are location-specific, and some are disease-specific, is one example. In theory, it is possible to update all models concurrently, but sequential Monte Carlo becomes inefficient as the number of time series increases. Our suggested marginalized PG sampler instead updates one model at a time, conditioned on the remaining datasets, and can be formulated in a modular fashion that greatly facilitates its implementation."
+  biography: "Anna Wigren is a final year PhD student at the Division of Systems and Control at Uppsala University, supervised by Fredrik Lindsten (Linköping University). Her main research interests include sequential Monte Carlo and Markov chain Monte Carlo methods."
 
 - date: May 25, 2022 at 2pm EEST
   title: "Adaptive Design in Real Time"
