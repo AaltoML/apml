@@ -97,7 +97,7 @@
   biography: "Adrien Corenflos is a PhD student at Aalto university under Simo Särkkä. Prior to this, he worked as a quantitative researcher at JP Morgan, UK. His research interests typically orbit around Monte Carlo methods for machine learning, with an emphasis on sequential Monte Carlo."
   photo: "adrien_corenflos"
 
-- date: April 14, 2022 at 3pm EET
+- date: April 14, 2022 at 3pm EEST
   title: "Low-Cost Bayesian Methods for Fixing Neural Nets' Overconfidence"
   presenter: "Agustinus Kristiadi"
   url: https://agustinus.kristia.de
@@ -106,7 +106,7 @@
   biography: "Agustinus Kristiadi is a last-year Ph.D. student at the University of Tübingen, under the supervision of Philipp Hennig. Before this, he studied computer science at the University of Bonn under Asja Fischer. His current interest is in the intersection between Bayesian deep learning and Riemannian geometry."
   photo: "augustinus-kristia"
 
-- date: April 28, 2022 at 3pm EET
+- date: April 28, 2022 at 3pm EEST
   title: "Embedded-model flows: Combining the inductive biases of model-free deep learning and explicit probabilistic modeling"
   presenter: "Gianluigi Silvestri"
   url: https://www.theunconsciousstatistician.com
@@ -115,7 +115,7 @@
   biography: "Gianluigi Silvestri is a PhD candidate in Probabilistic Machine Learning at OnePlanet Research Center and Donders Institute for Brain, Cognition and Behaviour, in Nijmegen, the Netherlands. His research interests include Variational Inference, Normalizing Flows and Bayesian Reinforcement Learning."
   photo: "Gianluigi-Silvestri"
 
-- date: May 12, 2022 at 3pm EET
+- date: May 12, 2022 at 3pm EEST
   title: "TBA"
   presenter: "Anna Wigren"
   url: https://www.it.uu.se/katalog/annwi999/main
@@ -123,7 +123,7 @@
   abstract: "TBA"
   biography: "TBA"
 
-- date: May 25, 2022 at 2pm EET
+- date: May 25, 2022 at 2pm EEST
   title: "Adaptive Design in Real Time"
   presenter: "Desi Ivanova"
   url: https://desirivanova.com
@@ -132,7 +132,7 @@
   biography: "Desi Ivanova is a second-year grad student at the University of Oxford, working with Tom Rainforth and Yee Whye Teh. Her research interests include probabilistic machine learning and inference with applications to experimental design, causality and data compression. Before joining Oxford, Desi worked as a quantitative researcher at Goldman Sachs."
   photo: "Desi-Ivanova"
 
-- date: June 09, 2022 at 3pm EET
+- date: June 09, 2022 at 3pm EEST
   title: "Tentative: Modelling Spread and Evolution of SARS-CoV2"
   presenter: "Swapnil Mishra"
   url: https://s-mishra.github.io
@@ -141,7 +141,7 @@
   biography: "TBA"
   photo: "Swapnil-Mishra"
 
-- date: June 16, 2022 at 3pm EET
+- date: June 16, 2022 at 3pm EEST
   title: "TBA"
   presenter: "Juan Maroñas"
   url: https://scholar.google.com/citations?user=sGtYXSMAAAAJ
