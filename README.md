@@ -8,8 +8,10 @@ This web page uses Jekyll through GitHub pages which renders static HTML pages t
 | Rickard Karlsson | reached Martin via e-mail, accepted for fall 2022 | R.K.A.Karlsson@tudelft.nl | TU Delft |
 | Harita Dellaporta | reached Arno via e-mail | c.dellaporta@warwick.ac.uk | University of Warwick |
 | Nicholas Krämer | reached Martin via e-mail | peter-nicholas.kraemer@uni-tuebingen.de | University of Tübingen |
-
-
+| Sam Daulton | through Mike Osborn | samuel.daulton@eng.ox.ac.uk | University of Oxford |
+| Heishiro Kanagawa | through Arthur Gretton | heishiro.kanagawa@gmail.com | Gatsby Computational Neuroscience Unit |
+| Adrián Javaloy | through Isabel Valera | adrian.javaloy@cs.uni-saarland.de | Saarland University | 
+| Emile Mathieu | contacted Martin | ebm32@cam.ac.uk | University of Cambridge |
 
 
 # Invitation e-Mail
