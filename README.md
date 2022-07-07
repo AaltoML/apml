@@ -1,66 +1,49 @@
 This web page uses Jekyll through GitHub pages which renders static HTML pages that are accessible at [https://aaltoml.github.io/apml/](https://aaltoml.github.io/apml/).
 
+# Prospective speakers (2023)
+
+| Speaker | Status | E-Mail | Affiliation |
+| -------- | -------- | -------- | -------- |
+| Martin Jørgensen | suggested by Mike Osborn | martinj@robots.ox.ac.uk | University of Oxford |
+| Michael Li | suggested by Arthur Gretton | ? | Gatsby Computational Neuroscience Unit |
+| Miriam Rateike | suggested by Isabel | rateike@cs.uni-saarland.de | Saarland University | 
+
+
 # Prospective speakers (fall 2022)
 
 | Speaker | Status | E-Mail | Affiliation |
 | -------- | -------- | -------- | -------- |
-| Vincent Fortuin | reached Martin via e-mail, accepted for fall 2022 | vbf21@cam.ac.uk | ETH |
-| Rickard Karlsson | reached Martin via e-mail, accepted for fall 2022 | R.K.A.Karlsson@tudelft.nl | TU Delft |
-| Harita Dellaporta | reached Arno via e-mail | c.dellaporta@warwick.ac.uk | University of Warwick |
-| Nicholas Krämer | reached Martin via e-mail | peter-nicholas.kraemer@uni-tuebingen.de | University of Tübingen |
-| Sam Daulton | through Mike Osborn | samuel.daulton@eng.ox.ac.uk | University of Oxford |
-| Heishiro Kanagawa | through Arthur Gretton | heishiro.kanagawa@gmail.com | Gatsby Computational Neuroscience Unit |
-| Adrián Javaloy | through Isabel Valera | adrian.javaloy@cs.uni-saarland.de | Saarland University | 
-| Emile Mathieu | contacted Martin | ebm32@cam.ac.uk | University of Cambridge |
-
+| Vincent Fortuin | send out | vbf21@cam.ac.uk | University of Cambridge |
+| Rickard Karlsson | send out | R.K.A.Karlsson@tudelft.nl | TU Delft |
+| Harita Dellaporta | send out | c.dellaporta@warwick.ac.uk | University of Warwick |
+| Nicholas Krämer | rsend out | peter-nicholas.kraemer@uni-tuebingen.de | University of Tübingen |
+| Sam Daulton | send out | samuel.daulton@eng.ox.ac.uk | University of Oxford |
+| Heishiro Kanagawa | send out | heishiro.kanagawa@gmail.com | Gatsby Computational Neuroscience Unit |
+| Adrián Javaloy | send out | adrian.javaloy@cs.uni-saarland.de | Saarland University | 
+| Emile Mathieu | send out | ebm32@cam.ac.uk | University of Cambridge |
 
 # Invitation e-Mail
 
 ```
-title: Invitation to present at the Aalto Seminar on Advances in Probabilistic Machine Learning
-
+subject: Invitation to present at the ELLIS seminar on Advances in Probabilistic Machine Learning (APML) 
 
 Dear xxx,
 
-We (Arno Solin and Martin Trapp) are at the beginning of organising a series of invited talks at the ML group at Aalto University. The seminar series aims to provide a platform for young researchers (PhD or post-doc level) to give invited talks about their research, intending to have a diverse set of talks & speakers on topics related to probabilistic machine learning. 
+We want to invite you for a talk (via Zoom, ~30 min + ~20 min Q&A) at the ELLIS seminar on Advances in Probabilistic Machine Learning (APML) in fall 2022, starting in mid-September / October! 
 
-To start with a set of exciting talks, we would like to invite you for a virtual talk (~30 min + 15 min Q&A).
+The APML seminar aims to provide a platform for early-career researchers to present and discuss their research about probabilistic machine learning. Each talk will be scheduled on Thursday (every other week), 3 pm (Finnish time), and depending on your timezone, we will adjust your presentation time if needed. We will make all talks open to the public (upon registration), and the talks will not be recorded. After the talk, we have an informal open-end private discussion through a virtual lab visit, in the vain of going for drinks, to get to know each other better and have some further discussions. For details on the seminar series see: https://aaltoml.github.io/apml/
 
-The talks will be scheduled on Wednesday (every other week), 3 pm (Finnish time), and depending on your timezone, we will adjust your presentation time if needed. We will make all talks open to the public (upon registration), except if you prefer to have a private presentation. The talks will not be recorded in order to ensure that less polished/unfinished ideas can also be covered.
+Please reply with a short "accept" if you are interested in giving a talk. If so, we will contact you for further details regarding the time of your talk, title, abstract, and short bio in due time.
 
-After the talk, we plan to have an open-end private discussion with you and the group to get to know each other better and have some further discussions.
+We look forward to hearing about your research and having some exciting discussions about your research. If you have any questions, please do not hesitate to contact us.
 
-To ensure many people can join your talk, we would start the seminar after the summer. 
-
-If you are interested in giving a talk at our new seminar, please select the date that fits your schedule the best: https://doodle.com/poll/5qpy47vn4s3842ix?utm_source=poll&utm_medium=link. We will then contact you for further details regarding a title for your talk, an abstract, and a short bio.
-
-We are looking forward to hearing about your research and have some exciting discussions. If you have any questions, please do not hesitate to contact us.
-
-All the best
-
-Arno Solin,
-Martin Trapp
+All the best,
+Martin Trapp & Arno Solin
 
 ```
 
 
 # List of direct contacts
-
-```
-aki.vehtari@aalto.fi
-harri.lahdesmaki@aalto.fi
-vikas.garg@aalto.fi
-jaakko.lehtinen@aalto.fi
-pekka.marttinen@aalto.fi
-samuel.kaski@aalto.fi
-arto.klami@cs.helsinki.fi
-luigi.acerbi@helsinki.fi
-laura.ruotsalainen@helsinki.fi
-pernkopf@tugraz.at
-kersting@cs.tu-darmstadt.de
-cassio@decampos.nl
-guyvdb@cs.ucla.edu
-```
 
 Message to direct invitees:
 
