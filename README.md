@@ -4,6 +4,7 @@ This web page uses Jekyll through GitHub pages which renders static HTML pages t
 
 | Speaker | Status | E-Mail | Affiliation |
 | -------- | -------- | -------- | -------- |
+| Kimia Nadjahi | found online through WiML | https://kimiandj.github.io | Sorbonne University, Paris, France |
 | Martin Jørgensen | suggested by Mike Osborn | martinj@robots.ox.ac.uk | University of Oxford |
 | Michael Li | suggested by Arthur Gretton | ? | Gatsby Computational Neuroscience Unit |
 | Miriam Rateike | suggested by Isabel | rateike@cs.uni-saarland.de | Saarland University | 
