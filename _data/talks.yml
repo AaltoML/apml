@@ -150,3 +150,51 @@
   abstract: "In this talk, I will introduce the Transformed Gaussian Processes, a stochastic process specified by transforming samples from a Gaussian process using an invertible transformation (warping function). These processes can be easily made non-stationary by parameterizing the warping function through an input-dependent transformation. I show how this is achieved with a Bayesian Neural Network implemented with Monte Carlo dropout with the additional benefit of incorporating uncertainties, effectively regularizing the model. This new model can match the performance of a Deep Gaussian Process at a fraction of its cost and also allow us to incorporate inductive biases in the function that we are trying to model (e.g. positive constraints), among other benefits. Training and predictions can be scaled using a sparse variational inference algorithm. We also show how the basic idea of Transformed Gaussian Processes can be used to create a set of C dependent function priors which can provide similar or better results than an SVGP in classification problems with a big number of classes but one order of magnitude faster."
   biography: "Since February 2022, I am a Post-doctoral researcher at Universidad Autónoma of Madrid, working with Daniel Hernández Lobato. I defended my PhD in January 2022 from Universidad Politécnica de Valencia. My research interests are Bayesian modelling (Gaussian Processes, Bayesian Neural Networks and hierarchical latent variable models) and the different ways of performing inference. I am also interested in deep generative models, Bayes decision theory and model calibration. Previous to this, I have trained Deep Convolutional Neural Networks for computer vision in different domains and also worked on other application problems such as speech enhancement using deep learning. In the next years, I am planning to study probabilistic circuits and stochastic differential equations in depth."
   photo: "Juan-Maronas"
+
+- date: September 29, 2022 at 3pm EEST
+  title: "TBA"
+  presenter: "Heishiro Kanagawa"
+  url: https://noukoudashisoup.github.io
+  affiliation: "Gatsby Computational Neuroscience Unit, University College London"
+  abstract: "TBA"
+  biography: ""
+
+- date: October 13, 2022 at 3pm EEST
+  title: "TBA"
+  presenter: "Sam Daulton"
+  url: https://sdaulton.github.io
+  affiliation: "Meta and University of Oxford"
+  abstract: "TBA"
+  biography: ""
+
+- date: October 27, 2022 at 3pm EEST
+  title: "TBA"
+  presenter: "Adrian Javaloy"
+  url: http://adrian.javaloy.com
+  affiliation: "Saarland University"
+  abstract: "TBA"
+  biography: ""
+
+- date: November 10, 2022 at 3pm EEST
+  title: "TBA"
+  presenter: "André Biedenkapp"
+  url: https://andrebiedenkapp.github.io
+  affiliation: "Freiburg University"
+  abstract: "TBA"
+  biography: ""
+
+- date: November 24, 2022 at 3pm EEST
+  title: "TBA"
+  presenter: "Antonio Horta Ribeiro"
+  url: https://katalog.uu.se/profile/?id=N18-2038
+  affiliation: "Uppsala University"
+  abstract: "TBA"
+  biography: ""
+
+- date: December 08, 2022 at 3pm EEST
+  title: "TBA"
+  presenter: "Emile Mathieu"
+  url: https://emilemathieu.fr
+  affiliation: "University of Cambridge"
+  abstract: "TBA"
+  biography: ""
