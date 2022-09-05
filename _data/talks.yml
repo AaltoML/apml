@@ -170,13 +170,13 @@
   photo: sam_daulton
 
 - date: October 27, 2022 at 3pm EEST
-  title: "TBA"
+  title: "Mitigating Modality Collapse in Multimodal VAEs via Impartial Optimization"
   presenter: "Adrián Javaloy"
   url: http://adrian.javaloy.com
   affiliation: "Saarland University"
   abstract: "TBA"
   biography: ""
-  photo: adrian_javaloy
+  photo: adrian_javaloy_new
 
 - date: November 10, 2022 at 3pm EET
   title: "Learning to Dynamically Optimise Algorithms"
