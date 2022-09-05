@@ -205,32 +205,14 @@
   biography: ""
   photo: emile_mathieu
 
-- date: Feburary 02, 2023 at 3pm EET
+- date: January 05, 2023 at 3pm EET
   title: "TBA"
-  presenter: "Harita Dellaporta"
-  url: https://warwick.ac.uk/fac/sci/statistics/staff/research_students/dellaporta/
-  affiliation: "University of Warwick"
+  presenter: "Vincent Fortuin"
+  url: https://fortuin.github.io
+  affiliation: "University of Cambridge"
   abstract: "TBA"
   biography: ""
-  photo: harita_dellaporta
-
-- date: March 02, 2023 at 3pm EET
-  title: "TBA"
-  presenter: "Peter Nicholas Krämer"
-  url: https://pnkraemer.github.io/sites/news.html
-  affiliation: "University of Tübingen"
-  abstract: "TBA"
-  biography: ""
-  photo: nicholas_kraemer
-
-- date: Feburary 16, 2023 at 3pm EET
-  title: "TBA"
-  presenter: "Benjie Wang"
-  url: https://www.cs.ox.ac.uk/people/benjie.wang/
-  affiliation: "University of Oxford"
-  abstract: "TBA"
-  biography: ""
-  photo: benji_wang
+  photo: "vincent_fortuin"
 
 - date: January 19, 2023 at 3pm EET
   title: "TBA"
@@ -241,11 +223,30 @@
   biography: ""
   photo: "beliz_gunel"
 
-- date: January 05, 2023 at 3pm EET
+- date: Feburary 02, 2023 at 3pm EET
   title: "TBA"
-  presenter: "Vincent Fortuin"
-  url: https://fortuin.github.io
-  affiliation: "University of Cambridge"
+  presenter: "Harita Dellaporta"
+  url: https://warwick.ac.uk/fac/sci/statistics/staff/research_students/dellaporta/
+  affiliation: "University of Warwick"
   abstract: "TBA"
   biography: ""
-  photo: "vincent_fortuin"
+  photo: harita_dellaporta
+
+- date: Feburary 16, 2023 at 3pm EET
+  title: "TBA"
+  presenter: "Benjie Wang"
+  url: https://www.cs.ox.ac.uk/people/benjie.wang/
+  affiliation: "University of Oxford"
+  abstract: "TBA"
+  biography: ""
+  photo: benji_wang
+
+- date: March 02, 2023 at 3pm EET
+  title: "TBA"
+  presenter: "Peter Nicholas Krämer"
+  url: https://pnkraemer.github.io/sites/news.html
+  affiliation: "University of Tübingen"
+  abstract: "TBA"
+  biography: ""
+  photo: nicholas_kraemer
+
