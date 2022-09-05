@@ -158,30 +158,34 @@
   affiliation: "Gatsby Computational Neuroscience Unit, University College London"
   abstract: "TBA"
   biography: ""
+  photo: heishiro_kanagawa
 
 - date: October 13, 2022 at 3pm EEST
   title: "TBA"
   presenter: "Sam Daulton"
   url: https://sdaulton.github.io
-  affiliation: "Meta and University of Oxford"
+  affiliation: "Meta / University of Oxford"
   abstract: "TBA"
   biography: ""
+  photo: sam_daulton
 
 - date: October 27, 2022 at 3pm EEST
   title: "TBA"
-  presenter: "Adrian Javaloy"
+  presenter: "Adrián Javaloy"
   url: http://adrian.javaloy.com
   affiliation: "Saarland University"
   abstract: "TBA"
   biography: ""
+  photo: adrian_javaloy
 
 - date: November 10, 2022 at 3pm EEST
-  title: "TBA"
+  title: "Learning to Dynamically Optimise Algorithms"
   presenter: "André Biedenkapp"
   url: https://andrebiedenkapp.github.io
   affiliation: "Freiburg University"
   abstract: "TBA"
   biography: ""
+  photo: andre_biedenkapp
 
 - date: November 24, 2022 at 3pm EEST
   title: "TBA"
@@ -190,6 +194,7 @@
   affiliation: "Uppsala University"
   abstract: "TBA"
   biography: ""
+  photo: antonio_horta_ribeiro
 
 - date: December 08, 2022 at 3pm EEST
   title: "TBA"
@@ -198,3 +203,49 @@
   affiliation: "University of Cambridge"
   abstract: "TBA"
   biography: ""
+  photo: emile_mathieu
+
+- date: Feburary 02, 2023 at 3pm EEST
+  title: "TBA"
+  presenter: "Harita Dellaporta"
+  url: https://warwick.ac.uk/fac/sci/statistics/staff/research_students/dellaporta/
+  affiliation: "University of Warwick"
+  abstract: "TBA"
+  biography: ""
+  photo: harita_dellaporta
+
+- date: March 02, 2023 at 3pm EEST
+  title: "TBA"
+  presenter: "Peter Nicholas Krämer"
+  url: https://pnkraemer.github.io/sites/news.html
+  affiliation: "University of Tübingen"
+  abstract: "TBA"
+  biography: ""
+  photo: nicholas_kraemer
+
+- date: February 16, 2023 at 3pm EEST
+  title: "TBA"
+  presenter: "Benjie Wang"
+  url: https://www.cs.ox.ac.uk/people/benjie.wang/
+  affiliation: "University of Oxford"
+  abstract: "TBA"
+  biography: ""
+  photo: benji_wang
+
+- date: January 19, 2023 at 3pm EEST
+  title: "TBA"
+  presenter: "Beliz Gunel"
+  url: https://web.stanford.edu/~bgunel/
+  affiliation: "Stanford University / Google AI"
+  abstract: "TBA"
+  biography: ""
+  photo: "beliz_gunel"
+
+- date: January 05, 2023 at 3pm EEST
+  title: "TBA"
+  presenter: "Vincent Fortuin"
+  url: https://fortuin.github.io
+  affiliation: "University of Cambridge"
+  abstract: "TBA"
+  biography: ""
+  photo: "vincent_fortuin"
