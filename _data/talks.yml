@@ -152,12 +152,12 @@
   photo: "Juan-Maronas"
 
 - date: September 29, 2022 at 3pm EEST
-  title: "TBA"
+  title: "A Kernel Stein Test for Comparing Latent Variable Models"
   presenter: "Heishiro Kanagawa"
   url: https://noukoudashisoup.github.io
   affiliation: "Gatsby Computational Neuroscience Unit, University College London"
-  abstract: "TBA"
-  biography: ""
+  abstract: "I will describe a kernel-based nonparametric test of relative goodness of fit, where the goal is to compare two models, both of which may have unobserved latent variables, such that the marginal distributions of the observed variables are intractable. Given the premise that “all models are wrong,” the goal of the test is to determine whether one model significantly outperforms the other in respect of a reference data sample. The test generalises earlier kernel Stein discrepancy (KSD) tests to the case of latent variable models, a much more general class than the fully observed models treated previously. The new test, with a properly calibrated threshold, has a well-controlled type-I error. In the case of models with low-dimensional latent structure and high-dimensional observations, our test significantly outperforms the relative maximum mean discrepancy test, which is based on samples from the models, and does not exploit the latent structure. I will illustrate the test on probabilistic topic models of arXiv articles."
+  biography: "Heishiro Kanagawa is a PhD student at Gatsby Computational Neuroscience Unit supervised by Arthur Gretton, and joining Newcastle University to work with Chris Oates. He is interested in evaluating machine learning and statistical models and developing diagnostic tools."
   photo: heishiro_kanagawa
 
 - date: October 13, 2022 at 3pm EEST
