@@ -152,12 +152,12 @@
   photo: "Juan-Maronas"
 
 - date: September 29, 2022 at 3pm EEST
-  title: "TBA"
+  title: "A Kernel Stein Test for Comparing Latent Variable Models"
   presenter: "Heishiro Kanagawa"
   url: https://noukoudashisoup.github.io
   affiliation: "Gatsby Computational Neuroscience Unit, University College London"
-  abstract: "TBA"
-  biography: ""
+  abstract: "I will describe a kernel-based nonparametric test of relative goodness of fit, where the goal is to compare two models, both of which may have unobserved latent variables, such that the marginal distributions of the observed variables are intractable. Given the premise that “all models are wrong,” the goal of the test is to determine whether one model significantly outperforms the other in respect of a reference data sample. The test generalises earlier kernel Stein discrepancy (KSD) tests to the case of latent variable models, a much more general class than the fully observed models treated previously. The new test, with a properly calibrated threshold, has a well-controlled type-I error. In the case of models with low-dimensional latent structure and high-dimensional observations, our test significantly outperforms the relative maximum mean discrepancy test, which is based on samples from the models, and does not exploit the latent structure. I will illustrate the test on probabilistic topic models of arXiv articles."
+  biography: "Heishiro Kanagawa is a PhD student at Gatsby Computational Neuroscience Unit supervised by Arthur Gretton, and joining Newcastle University to work with Chris Oates. He is interested in evaluating machine learning and statistical models and developing diagnostic tools."
   photo: heishiro_kanagawa
 
 - date: October 13, 2022 at 3pm EEST
@@ -174,8 +174,8 @@
   presenter: "Adrián Javaloy"
   url: http://adrian.javaloy.com
   affiliation: "Saarland University"
-  abstract: "TBA"
-  biography: ""
+  abstract: "A number of variational autoencoders (VAEs) have recently emerged with the aim of modelling multimodal data, e.g., to jointly model images and their corresponding captions. Still, multimodal VAEs tend to focus solely on a subset of the modalities, e.g., by fitting the image while neglecting the caption. We refer to this limitation as modality collapse. In this presentation, I argue that this effect is a consequence of modality-specific gradients conflicting during the training of multimodal VAEs. After this talk, you will be able to detect which parts of your model's computational graph can suffer from gradients conflict (which I call impartiality blocks), as well as how to leverage existing gradient-conflict solutions from multitask learning to mitigate modality collapse. In order words, you will learn how to encourage impartial optimization across modalities. The framework I introduce is general, and we have successfully applied it to several multimodal VAE models, losses, and datasets from the literature, and empirically showed that it significantly improves the reconstruction performance, conditional generation, and coherence of the latent space across modalities."
+  biography: "I am a last-year PhD student at the University of Saarland under the supervision of Isabel Valera, where I primarily work on probabilistic machine learning models and their training dynamics (and challenges), specially when the training data comprises multiple modalities (such as images and their captions, or tabular data, where different columns represent fundamentally different quantities). My interests are broad however, and I try to stay tuned with the machine learning literature without losing my own sanity. Before moving to Saarland, I started my PhD at the Max-Planck Institute for Intelligent Systems with Isabel Valera, and previously I pursued a double-bachelor on Computer Science Engineering and Mathematics at the University of Murcia."
   photo: adrian_javaloy_new
 
 - date: November 10, 2022 at 3pm EET
