@@ -188,12 +188,12 @@
   photo: andre_biedenkapp_2
 
 - date: November 24, 2022 at 3pm EET
-  title: "TBA"
+  title: "Adversarial Attacks in Linear Regression"
   presenter: "Antonio Horta Ribeiro"
   url: https://katalog.uu.se/profile/?id=N18-2038
   affiliation: "Uppsala University"
-  abstract: "TBA"
-  biography: ""
+  abstract: "State-of-the-art machine learning models can be vulnerable to very small input perturbations that are adversarially constructed. Adversarial attacks are a popular framework for studying these vulnerabilities. They consider worst-case input disturbances designed to maximize model error and got a lot of attention due to their impact on the performance of state-of-the-art models. Adversarial training considers extending model training with these examples and is an effective approach to defend against such attacks. This talk will explore adversarial attacks and training in linear regression.  There is a strong reason for this focus, for linear regression, adversarial training can be formulated as a convex and quadratic problem. Moreover, many interesting phenomena that can be observed in nonlinear models are still present. The setup is used to study the role of high dimensionality in robustness. And to reveal the connection between adversarial training, parameter-shrinking methods and minimum-norm solutions."
+  biography: "I'm a postdoctoral researcher at Uppsala University in Sweden. My work studies techniques to extract information and learn the intrinsic behaviour of time series, signals and dynamical systems. I have a focus on large-scale models that can perform such tasks, with a special interest in their robustness and generalization capabilities. While motivated by a range of applications, I am particularly interested in the new prospects these advances can bring to medicine. I did my Ph.D. at UFMG, a top-ranked university in Brazil, under the supervision of Luis A. Aguirre. My thesis defended in 2020 went on to be awarded the best thesis in Engineering and Physical Sciences by the university.  In the next year, I joined Thomas Schön's group in Uppsala. Due to contributions to machine learning and control with applications in cardiology, I was also awarded the Benzelius Award, granted by the Royal Society of Sciences in Uppsala to young researchers."
   photo: antonio_horta_ribeiro
 
 - date: December 08, 2022 at 3pm EET
