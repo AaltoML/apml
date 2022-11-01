@@ -197,13 +197,13 @@
   photo: antonio_horta_ribeiro
 
 - date: December 08, 2022 at 3pm EET
-  title: "TBA"
+  title: "Score-based Generative Models on Riemannian manifolds"
   presenter: "Emile Mathieu"
   url: https://emilemathieu.fr
   affiliation: "University of Cambridge"
-  abstract: "TBA"
-  biography: ""
-  photo: emile_mathieu
+  abstract: "Score-based generative models (SGMs) are a powerful class of generative models that exhibit remarkable empirical performance. Score-based generative modelling consists of a *noising* stage, whereby a diffusion is used to gradually add Gaussian noise to data, and a generative model, which entails a *denoising* process defined by approximating the time-reversal of the diffusion. Existing SGMs assume that data is supported on a Euclidean space, i.e. a manifold with flat geometry.  In many domains such as robotics, geoscience or protein modelling,  data is often naturally described by distributions living on Riemannian manifolds and current SGM techniques are not appropriate. We introduce here **Riemannian Score-based Generative Models** (RSGMs), a class of generative models extending SGMs to Riemannian manifolds. We demonstrate our approach on a variety of manifolds, and in particular with earth and climate science spherical data."
+  biography: "I am a Postdoctoral Research Associate in the Cambridge Machine Learning Group, working with Prof Richard Turner and Prof José Miguel Hernández-Lobato. Previously, I was a Postdoctoral Research Associate in the OxCSML group in the Department of Statistics @ Oxford, where I was a PhD student prior to that. My research interests centre around deep probabilistic machine learning with a focus on encoding problem symmetries and geometrical constraints, with application to the natural sciences. In the past year I have in particular been working on extending and analysing score based diffusion models."
+  photo: emile_mathieu_2
 
 - date: January 05, 2023 at 3pm EET
   title: "TBA"
