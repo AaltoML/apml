@@ -196,7 +196,7 @@
   biography: "I'm a postdoctoral researcher at Uppsala University in Sweden. My work studies techniques to extract information and learn the intrinsic behaviour of time series, signals and dynamical systems. I have a focus on large-scale models that can perform such tasks, with a special interest in their robustness and generalization capabilities. While motivated by a range of applications, I am particularly interested in the new prospects these advances can bring to medicine. I did my Ph.D. at UFMG, a top-ranked university in Brazil, under the supervision of Luis A. Aguirre. My thesis defended in 2020 went on to be awarded the best thesis in Engineering and Physical Sciences by the university.  In the next year, I joined Thomas Schön's group in Uppsala. Due to contributions to machine learning and control with applications in cardiology, I was also awarded the Benzelius Award, granted by the Royal Society of Sciences in Uppsala to young researchers."
   photo: antonio_horta_ribeiro
 
-- date: December 08, 2022 at 3pm EET
+- date: December 15, 2022 at 3pm EET
   title: "Score-based Generative Models on Riemannian manifolds"
   presenter: "Emile Mathieu"
   url: https://emilemathieu.fr
