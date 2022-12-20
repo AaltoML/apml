@@ -205,23 +205,14 @@
   biography: "I am a Postdoctoral Research Associate in the Cambridge Machine Learning Group, working with Prof Richard Turner and Prof José Miguel Hernández-Lobato. Previously, I was a Postdoctoral Research Associate in the OxCSML group in the Department of Statistics @ Oxford, where I was a PhD student prior to that. My research interests centre around deep probabilistic machine learning with a focus on encoding problem symmetries and geometrical constraints, with application to the natural sciences. In the past year I have in particular been working on extending and analysing score based diffusion models."
   photo: emile_mathieu_2
 
-- date: January 05, 2023 at 3pm EET
-  title: "TBA"
+- date: January 12, 2023 at 3pm EET
+  title: "On the Importance of Priors in Bayesian Deep Learning"
   presenter: "Vincent Fortuin"
   url: https://fortuin.github.io
-  affiliation: "University of Cambridge"
-  abstract: "TBA"
-  biography: ""
+  affiliation: "University of Cambridge / Helmholtz AI"
+  abstract: "While Bayesian deep learning has been a popular field of research in recent years, most of the work has focused on improving inference methods for better performance and lower computational costs. Conversely, the priors have often been ignored and merely chosen to be isotropic Gaussian, for mathematical and computational convenience. In this talk, I will review recent work that calls this popular practice into question and highlights pathologies that can arise from prior misspecification in Bayesian neural networks. I will then present different methods that can aid the selection of better priors and I will discuss the advantages of function-space priors over weight-space ones."
+  biography: "Vincent Fortuin is an incoming research group leader at Helmholtz AI in Munich and a postdoctoral researcher at the University of Cambridge, working in the Machine Learning Group. He is also a Research Fellow at St. John’s College, and a Branco Weiss Fellow. His research focuses on the interface between deep learning and probabilistic modeling. He is particularly interested in developing models that are more interpretable and data efficient, following the Bayesian paradigm. To this end, he is mostly trying to find better priors and more efficient inference techniques for Bayesian deep learning. Apart from that, he is also interested in deep generative modeling, meta-learning, and PAC-Bayesian theory."
   photo: "vincent_fortuin"
-
-- date: January 19, 2023 at 3pm EET
-  title: "TBA"
-  presenter: "Beliz Gunel"
-  url: https://web.stanford.edu/~bgunel/
-  affiliation: "Stanford University / Google AI"
-  abstract: "TBA"
-  biography: ""
-  photo: "beliz_gunel"
 
 - date: Feburary 02, 2023 at 3pm EET
   title: "TBA"
@@ -250,3 +241,11 @@
   biography: ""
   photo: nicholas_kraemer
 
+- date: March 09, 2023 at 3pm EET
+  title: "TBA"
+  presenter: "Beliz Gunel"
+  url: https://web.stanford.edu/~bgunel/
+  affiliation: "Stanford University / Google AI"
+  abstract: "TBA"
+  biography: ""
+  photo: "beliz_gunel"
