@@ -215,12 +215,12 @@
   photo: "vincent_fortuin"
 
 - date: Feburary 02, 2023 at 3pm EET
-  title: "TBA"
+  title: "Robust Bayesian Inference for Simulator-based Models via the MMD Posterior Bootstrap"
   presenter: "Harita Dellaporta"
   url: https://warwick.ac.uk/fac/sci/statistics/staff/research_students/dellaporta/
   affiliation: "University of Warwick"
-  abstract: "TBA"
-  biography: ""
+  abstract: "Simulator-based models are models for which the likelihood is intractable but simulation of synthetic data is possible. They are often used to describe complex real-world phenomena, and as such can often be misspecified in practice. In this talk, I will present a novel algorithm based on the posterior bootstrap and maximum mean discrepancy estimators. This leads to a highly-parallelisable Bayesian inference algorithm with strong robustness properties. This is demonstrated through an in-depth theoretical study which includes generalisation bounds, frequentist consistency and robustness of our posterior guarantees. The approach is then illustrated on a range of examples including a g-and-k distribution and a toggle-switch model."
+  biography: "Harita is a third-year PhD student at the Warwick CDT in Mathematics & Statistics under the supervision of Prof. Theo Damoulas and a placement Enrichment Student at the Alan Turing Institute. Prior to this, Harita obtained an MSc in Computational Statistics & Machine Learning from UCL. Her research focuses on generalised notions of Bayesian inference with emphasis on different types of robustness such as model misspecification and measurement error. She is also interested in causal inference and applications of robust methodologies in healthcare."
   photo: harita_dellaporta
 
 - date: Feburary 16, 2023 at 3pm EET
