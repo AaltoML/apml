@@ -224,12 +224,12 @@
   photo: harita_dellaporta
 
 - date: Feburary 16, 2023 at 3pm EET
-  title: "TBA"
+  title: "Tractable Uncertainty for Causal Structure Learning"
   presenter: "Benjie Wang"
   url: https://www.cs.ox.ac.uk/people/benjie.wang/
   affiliation: "University of Oxford"
-  abstract: "TBA"
-  biography: ""
+  abstract: "Causal structure learning aims to discover the causal directed acyclic graph (DAG) responsible for generating a given dataset. However, a point estimate can be flawed due to limited data as well as non-identifiability of the underlying DAG. Bayesian approaches to structure learning instead seek to characterize a full posterior distribution over DAGs, but are typically very computationally expensive in high dimensions. In this talk, I will present Tractable Uncertainty for STructure learning (TRUST), a framework for approximate posterior inference that relies on probabilistic circuits, a type of tractable probabilistic model, as the representation of our posterior belief over causal DAGs. In comparison to Monte-Carlo posterior approximations, our representation can capture a much richer space of DAGs, while also being able to tractably reason about the uncertainty; for example, inferring the most likely completion of a partial graph, or the expected linear causal effect. Finally, I will show how our posterior representations can be learned by exploiting existing structure learning algorithms together with variational inference, leading empirically to improvement in both the quality of inferred structures and posterior uncertainty."
+  biography: "Benjie Wang is a final year DPhil student in Computer Science at the University of Oxford under the supervision of Marta Kwiatkowska. Previously, he completed his Masters in Statistics supervised by Tom Rainforth. His interests span probabilistic machine learning, causality, robustness and verification of probabilistic models, and automated decision-making. His research currently focuses on theory and methodology in tractable probabilistic modelling, and their application to computational problems in causal discovery and inference."
   photo: benji_wang
 
 - date: March 02, 2023 at 3pm EET
