@@ -242,10 +242,10 @@
   photo: nicholas_kraemer
 
 - date: March 09, 2023 at 3pm EET
-  title: "TBA"
+  title: "STRUM: Extractive Aspect-Based Contrastive Summarization"
   presenter: "Beliz Gunel"
   url: https://web.stanford.edu/~bgunel/
-  affiliation: "Stanford University / Google AI"
-  abstract: "TBA"
-  biography: ""
+  affiliation: "Google Research"
+  abstract: "Comparative decisions, such as picking between two cars or deciding between two hiking trails, require the users to visit multiple webpages and contrast the choices along relevant aspects. Given the impressive capabilities of pre-trained large language models, we ask whether they can help automate such analysis. We refer to this task as extractive aspect-based contrastive summarization which involves constructing a structured summary that compares the choices along relevant aspects. In this paper, we propose a novel method called STRUM for this task that can generalize across domains without requiring any human-written summaries or fixed aspect list as supervision. Given a set of relevant input webpages, STRUM solves this problem using two pre-trained T5-based large language models: first one fine-tuned for aspect and value extraction, and second one fine-tuned for natural language inference. We showcase the abilities of our method across different domains, identify shortcomings, and discuss questions that we believe will be critical in this new line of research."
+  biography: "Beliz Gunel is a Research Scientist in Google Research where she currently focuses on using large language models for structured summarization. Her research interests lie broadly at the intersection of natural language processing, data-efficient machine learning, and representation learning. She earned her PhD from Stanford University in 2022 where she worked on leveraging prior knowledge and structure for data-efficient machine learning. During her PhD studies, she was a research intern in Microsoft Research, Meta AI, and Google Brain. She is a regular reviewer for NeurIPS, ICML, ACL, EMNLP, and NAACL conferences. She also co-organized Representation Learning on Graphs and Manifolds Workshop at ICLR in 2019 and Women in Machine Learning (WiML) Workshop at NeurIPS in 2022."
   photo: "beliz_gunel"
