@@ -233,12 +233,12 @@
   photo: benji_wang
 
 - date: March 02, 2023 at 3pm EET
-  title: "TBA"
+  title: "Probabilistic Numerical Simulation of Differential Equation Models"
   presenter: "Peter Nicholas Krämer"
   url: https://pnkraemer.github.io/sites/news.html
   affiliation: "University of Tübingen"
-  abstract: "TBA"
-  biography: ""
+  abstract: "The numerical simulation of differential equations underpins many modelling decisions made in the natural sciences. Solving differential equations with probabilistic numerical algorithms promises better uncertainty quantification than with non-probabilistic approaches, but until recently, probabilistic solvers have been inefficient, unstable, and generally impractical. In this talk, I will explain the fundamentals of probabilistic numerical algorithms for the simulation of ordinary differential equations. Building on this, I will survey the stable and efficient implementation of probabilistic numerical solvers and discuss generalisations of the algorithm to partial differential equations."
+  biography: "Nico is a final-year PhD student in Machine Learning at the University of Tübingen supervised by Philipp Hennig. His research interests are probabilistic numerical algorithms and the simulation of differential equations. Before his PhD, Nico obtained an MSc in Mathematics from the University of Bonn."
   photo: nicholas_kraemer
 
 - date: March 09, 2023 at 3pm EET
