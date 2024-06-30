@@ -249,3 +249,92 @@
   abstract: "Comparative decisions, such as picking between two cars or deciding between two hiking trails, require the users to visit multiple webpages and contrast the choices along relevant aspects. Given the impressive capabilities of pre-trained large language models, we ask whether they can help automate such analysis. We refer to this task as extractive aspect-based contrastive summarization which involves constructing a structured summary that compares the choices along relevant aspects. In this paper, we propose a novel method called STRUM for this task that can generalize across domains without requiring any human-written summaries or fixed aspect list as supervision. Given a set of relevant input webpages, STRUM solves this problem using two pre-trained T5-based large language models: first one fine-tuned for aspect and value extraction, and second one fine-tuned for natural language inference. We showcase the abilities of our method across different domains, identify shortcomings, and discuss questions that we believe will be critical in this new line of research."
   biography: "Beliz Gunel is a Research Scientist in Google Research where she currently focuses on using large language models for structured summarization. Her research interests lie broadly at the intersection of natural language processing, data-efficient machine learning, and representation learning. She earned her PhD from Stanford University in 2022 where she worked on leveraging prior knowledge and structure for data-efficient machine learning. During her PhD studies, she was a research intern in Microsoft Research, Meta AI, and Google Brain. She is a regular reviewer for NeurIPS, ICML, ACL, EMNLP, and NAACL conferences. She also co-organized Representation Learning on Graphs and Manifolds Workshop at ICLR in 2019 and Women in Machine Learning (WiML) Workshop at NeurIPS in 2022."
   photo: "beliz_gunel"
+
+# 2024 talks
+
+- date: August 15, 2024 at 2pm EEST
+  title: TBA
+  # presenter: 
+  # url: TBH
+  # affiliation: 
+  abstract: TBA
+  # biography: TBH
+  # photo: "tbh"
+
+- date: August 29, 2024 at 2pm EEST
+  title: TBA
+  # presenter: TBH
+  # url: TBH
+  # affiliation: TBH
+  abstract: TBA
+  # biography: TBH
+  # photo: "tbh"
+
+- date: September 12, 2024 at 2pm EEST
+  title: "On Label Noise in Classification: An Aleatoric Uncertainty Perspective (Tentative)"
+  presenter: "Erik Englesson"
+  url: https://www.kth.se/profile/engless/
+  affiliation: KTH Royal Institute of Technology
+  abstract: TBA
+  # biography: TBH
+  # photo: "erik_englesson"
+
+- date: September 26, 2024 at 2pm EEST
+  title: "Variational Learning is Effective for Large Deep Networks (Tentative)"
+  presenter: Thomas Möllenhoff
+  url: https://moellenh.github.io/
+  affiliation: RIKEN Center for Advanced Intelligence Project
+  abstract: TBA
+  # biography: TBH
+  # photo: "thomas_moellenhoff"
+
+- date: October 10, 2024 at 2pm EEST
+  title: "Generative models for simulating molecular biology (Tentative)"
+  presenter: "Hannes Stark"
+  url: https://hannes-stark.com/
+  affiliation: MIT Computer Science and Artificial Intelligence Laboratory
+  abstract: TBA
+  # biography: TBH
+  # photo: "hannes_stark"
+
+- date: October 24, 2024 at 2pm EEST
+  title: "On conditional diffusion models for PDE simulations (Tentative)"
+  presenter: "Aliaksandra Shysheya"
+  url: https://scholar.google.com/citations?user=Zm8hNeUAAAAJ
+  affiliation: University of Cambridge
+  abstract: TBA
+  # biography: TBH
+  # photo: "aliaksandra_shysheya"
+
+- date: November 07, 2024 at 2pm EET
+  title: "Software and MCMC methods for sampling from complex distributions (Tentative)"
+  presenter: "Nikola Surjanovic"
+  url: https://nikola-sur.netlify.app/
+  affiliation: University of British Columbia
+  abstract: TBA
+  # biography: TBH
+  # photo: "nikola_surjanovic"
+
+- date: November 21, 2024 at 2pm EET
+  title: "Robust Probabilistic Circuits (Tentative)"
+  presenter: Fabrizio Ventola
+  url: https://www.ml.informatik.tu-darmstadt.de/people/fventola/
+  affiliation: TU Darmstadt
+  abstract: TBA
+  # biography: TBH
+  # photo: "fabrizio_ventola"
+
+- date: December 05, 2024 at 2pm EET
+  title: "Scalable Approximate Bayesian Methods for Uncertainty Quantification in DNNs (Tentative)"
+  presenter: Olivier Laurent
+  url: https://scholar.google.com/citations?user=RW4CQ68AAAAJ
+  affiliation: University of Paris-Saclay
+  abstract: TBA
+  # biography: TBH
+  # photo: "olivier_laurent"
+
+- date: December 19, 2024 at 2pm EET
+  title: TBA
+  abstract: TBA
+  # biography: TBH
+  # photo: "johannes_von_oswald"

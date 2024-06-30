@@ -49,13 +49,16 @@ layout: default
 
   <article class="post-preview" datetime="{{ talk.date | date: "%s" }}">
     <h2 class="post-title">{{ talk.title }}</h2>
+    {% if talk.presenter %}
     <h3 class="post-subtitle"><a href="{{talk.url}}" target="_blank">{{ talk.presenter }}</a> ({{ talk.affiliation }})</h3>
+    {% endif %}
     <p class="post-meta">{{ talk.date }}</p>
     <div class="post-entry">
       <p><strong>Abstract:</strong>
       {{ talk.abstract | markdownify | remove: '<p>' | remove: '</p>' }}</p>
     </div>
     <div class="row post-bio">
+      {% if talk.biography %}
       <div class="col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2 text-center">
       {% if talk.photo %}
         <img src="{{ site.baseurl }}/assets/speakers/{{ talk.photo }}.jpg" class="img-responsive img-circle avatar" alt="">
@@ -69,6 +72,7 @@ layout: default
         <p><strong>About the presenter:</strong>
         {{ talk.biography | markdownify | remove: '<p>' | remove: '</p>' }}</p>
       </div>
+      {% endif %}
     </div>
   </article>
 
