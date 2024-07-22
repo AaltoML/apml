@@ -324,6 +324,13 @@
   # biography: TBH
   # photo: "fabrizio_ventola"
 
+- date: November 28, 2024 at 2pm EET
+  title: "Physics inspired deep representation learning"
+  presenter: Yogesh Verma
+  url: https://yoverma.github.io/yoerma.github.io/
+  affiliation: Aalto University
+  abstract: TBH
+
 - date: December 05, 2024 at 2pm EET
   title: "Scalable Approximate Bayesian Methods for Uncertainty Quantification in DNNs (Tentative)"
   presenter: Olivier Laurent
