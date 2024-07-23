@@ -252,24 +252,6 @@
 
 # 2024 talks
 
-- date: August 15, 2024 at 2pm EEST
-  title: TBA
-  # presenter: 
-  # url: TBH
-  # affiliation: 
-  abstract: TBA
-  # biography: TBH
-  # photo: "tbh"
-
-- date: August 29, 2024 at 2pm EEST
-  title: TBA
-  # presenter: TBH
-  # url: TBH
-  # affiliation: TBH
-  abstract: TBA
-  # biography: TBH
-  # photo: "tbh"
-
 - date: September 12, 2024 at 2pm EEST
   title: "On Label Noise in Classification: An Aleatoric Uncertainty Perspective (Tentative)"
   presenter: "Erik Englesson"
@@ -340,8 +322,11 @@
   # biography: TBH
   # photo: "olivier_laurent"
 
-- date: December 19, 2024 at 2pm EET
-  title: TBA
+- date: December 12, 2024 at 2pm EET
+  title: Turing.jl: a general-purpose probabilistic programming language
+  presenter: Tor Fjelde
+  affiliation: University of Cambridge
+  url: http://retiredparkingguard.com/
   abstract: TBA
   # biography: TBH
   # photo: "johannes_von_oswald"
