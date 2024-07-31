@@ -253,22 +253,22 @@
 # 2024 talks
 
 - date: September 12, 2024 at 2pm EEST
-  title: "On Label Noise in Classification: An Aleatoric Uncertainty Perspective (Tentative)"
-  presenter: "Erik Englesson"
-  url: https://www.kth.se/profile/engless/
-  affiliation: KTH Royal Institute of Technology
-  abstract: TBA
-  # biography: TBH
-  # photo: "erik_englesson"
-
-- date: September 26, 2024 at 2pm EEST
-  title: "Variational Learning is Effective for Large Deep Networks (Tentative)"
+  title: "Variational Learning is Effective for Large Deep Networks"
   presenter: Thomas Möllenhoff
   url: https://moellenh.github.io/
   affiliation: RIKEN Center for Advanced Intelligence Project
-  abstract: TBA
-  # biography: TBH
-  # photo: "thomas_moellenhoff"
+  abstract: "In this talk, I present extensive evidence against the common belief that variational Bayesian learning is ineffective for large neural networks. First, I show that a recent deep learning method called sharpness-aware minimization (SAM) solves an optimal convex relaxation of the variational Bayesian objective. Then, I demonstrate that a direct optimization of the variational objective with an Improved Variational Online Newton method (IVON) can consistently match or outperforms Adam for training large networks such as GPT-2 and ResNets from scratch. IVON's computational costs are nearly identical to Adam but its predictive uncertainty is better. The talk concludes with several new use cases of variational learning where we improve fine-tuning and model merging in Large Language Models, accurately predict generalization error, and faithfully estimate sensitivity to data."
+  biography: "Thomas Möllenhoff received his PhD in Informatics from the Technical University of Munich in 2020. From 2020 to 2023, he was a post-doc in the Approximate Bayesian Inference Team at RIKEN. Since 2023 he works at RIKEN as a tenured research scientist. His research focuses on optimization and Bayesian deep learning and has been awarded several times, including the Best Paper Honorable Mention award at CVPR 2016 and a first-place at the NeurIPS 2021 Challenge on Approximate Inference."
+  photo: "thomas_moellenhoff"
+
+- date: September 26, 2024 at 2pm EEST
+  title: "Exploiting Properties of the Gaussian Likelihood for Label Noise Robustness in Classification"
+  presenter: "Erik Englesson"
+  url: https://www.kth.se/profile/engless/
+  affiliation: KTH Royal Institute of Technology
+  abstract: "A natural way of estimating heteroscedastic label noise in regression is to model the observed (potentially noisy) target as a sample from a normal distribution, whose parameters can be learned by minimizing the negative log-likelihood. This formulation has desirable loss attenuation properties, as it reduces the contribution of high-error examples. Intuitively, this behaviour can improve robustness against label noise by reducing overfitting. We propose an extension of this simple and probabilistic approach to classification, that has the same desirable loss attenuation properties. We evaluate the effectiveness of the method by measuring its robustness against label noise in classification. In follow-up work, we improve the method's robustness by modelling and estimating a shift (non-zero mean) in the Gaussian noise distribution, which we show makes it possible for the method to correct noisy labels."
+  biography: "Erik is a postdoc at the Division of Robotics, Perception and Learning at KTH, supervised by Hossein Azizpour. His research interests are related to robustness and uncertainty in deep learning. Erik likes to bring time-tested ideas from fields such as statistics and information theory to deep learning. His PhD thesis was about robustness to label noise, which arises from aleatoric uncertainty in the data generation process. In the near future, Erik's plans to connect aleatoric uncertainty, label noise, and epistemic uncertainty, and also bring ideas from Gaussian processes to deep learning."
+  photo: "erik_englesson"
 
 - date: October 10, 2024 at 2pm EEST
   title: "Generative models for simulating molecular biology (Tentative)"
@@ -286,7 +286,7 @@
   affiliation: University of Cambridge
   abstract: TBA
   # biography: TBH
-  # photo: "aliaksandra_shysheya"
+  # photo: "aliaksandra_shysheya" # picture missing
 
 - date: November 07, 2024 at 2pm EET
   title: "Software and MCMC methods for sampling from complex distributions (Tentative)"
@@ -311,15 +311,17 @@
   presenter: Yogesh Verma
   url: https://yoverma.github.io/yoerma.github.io/
   affiliation: Aalto University
-  abstract: TBH
+  abstract: TBH # exists
+  # biography: TBH # exists
+  # photo: "yogesh_verma"
 
 - date: December 05, 2024 at 2pm EET
   title: "Scalable Approximate Bayesian Methods for Uncertainty Quantification in DNNs (Tentative)"
   presenter: Olivier Laurent
   url: https://scholar.google.com/citations?user=RW4CQ68AAAAJ
   affiliation: University of Paris-Saclay
-  abstract: TBA
-  # biography: TBH
+  abstract: TBA # missing
+  # biography: TBH # missing
   # photo: "olivier_laurent"
 
 - date: December 12, 2024 at 2pm EET
@@ -327,6 +329,6 @@
   presenter: Tor Fjelde
   affiliation: University of Cambridge
   url: http://retiredparkingguard.com/
-  abstract: TBA
-  # biography: TBH
-  # photo: "johannes_von_oswald"
+  abstract: TBA # missing
+  # biography: TBH # missing
+  # photo: "tor_fjelde"
