@@ -271,13 +271,13 @@
   photo: "erik_englesson"
 
 - date: October 10, 2024 at 2pm EEST
-  title: "Generative models for simulating molecular biology (Tentative)"
-  presenter: "Hannes Stark"
+  title: "Generative Models for Biomolecular Prediction, Dynamics, and Design"
+  presenter: "Hannes Stark & Bowen Jing"
   url: https://hannes-stark.com/
   affiliation: MIT Computer Science and Artificial Intelligence Laboratory
-  abstract: TBA
-  # biography: TBH
-  # photo: "hannes_stark"
+  abstract: We lay out three avenues in which we think generative models are especially valuable for modeling biomolecules. 1) Hard prediction tasks can be better addressed with generative models that can suggest and rank multiple solutions (e.g., docking). 2) The dynamics and conformations of biomolecules can be captured with generative models (e.g., protein conformational ensembles and MD trajectories). 3) Designing new biomolecules can be accelerated, informed by samples or likelihoods from generative models (e.g., protein binder or regulatory DNA design).
+  biography: Bowen and Hannes are 4th and 3rd year PhD students at MIT working with Bonnie Berger, Tommi Jaakkola, and Regina Barzilay. Their interests center around using generative models for biomolecular applications ranging from protein engineering to molecular dynamics.
+  photo: "hannes_stark"
 
 - date: October 24, 2024 at 2pm EEST
   title: "On conditional diffusion models for PDE simulations (Tentative)"
