@@ -280,13 +280,13 @@
   photo: "hannes_stark"
 
 - date: October 24, 2024 at 2pm EEST
-  title: "On conditional diffusion models for PDE simulations (Tentative)"
+  title: "On Conditional Diffusion Models for PDE Simulations"
   presenter: "Aliaksandra Shysheya"
   url: https://scholar.google.com/citations?user=Zm8hNeUAAAAJ
   affiliation: University of Cambridge
-  abstract: TBA
-  # biography: TBH
-  # photo: "aliaksandra_shysheya" # picture missing
+  abstract: Modeling partial differential equations (PDEs) is of crucial importance in science and engineering. Some of the most common tasks include 1) forecasting, where the aim is to predict future states based on an initial one, as well as 2) inverse problems, such as data assimilation (DA), with the goal of reconstructing an aspect of the PDE (i.e. coefficient, initial condition, full trajectory, etc.) given some partial observations of the solution to the PDE. However, most previous numerical and machine learning approaches that target forecasting cannot be applied out-of-the-box for data assimilation. Recently, diffusion models have emerged as a powerful tool for conditional generation, being able to flexibly incorporate observations without retraining. In this talk, I will discuss our recent work in this domain, where we perform a comparative study of score-based diffusion models for forecasting and assimilation of sparse observations. In particular, we focus on diffusion models that are either presented with the conditional information during training, or conditioned after unconditional training. We address the shortcomings of previous work and develop methods that are able to successfully tackle the combination of forecasting and data assimilation, a task commonly encountered in real-world scenarios such as weather modeling.
+  biography: Sasha is a 3rd year PhD student at the Computational and Biological Learning lab of the University of Cambridge, UK, supervised by Prof Richard E Turner. Her main research interests are in generative modeling and data-efficient machine learning.
+  photo: "aliaksandra_shysheya" # picture missing
 
 - date: November 07, 2024 at 2pm EET
   title: "Software and MCMC methods for sampling from complex distributions (Tentative)"
