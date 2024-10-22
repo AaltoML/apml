@@ -289,22 +289,22 @@
   photo: "aliaksandra_shysheya" # picture missing
 
 - date: November 07, 2024 at 2pm EET
-  title: "Software and MCMC methods for sampling from complex distributions (Tentative)"
+  title: "Software and MCMC methods for sampling from complex distributions"
   presenter: "Nikola Surjanovic"
   url: https://nikola-sur.netlify.app/
   affiliation: University of British Columbia
-  abstract: TBA
-  # biography: TBH
-  # photo: "nikola_surjanovic"
+  abstract: We introduce a software package, [Pigeons.jl](https://github.com/Julia-Tempering/Pigeons.jl), that provides a way to leverage distributed  computation to obtain samples from complicated probability distributions, such as  multimodal posteriors arising in Bayesian inference and high-dimensional distributions in  statistical mechanics. Pigeons.jl provides simple APIs to perform such computations  single-threaded, multi-threaded, and/or distributed over thousands of MPI-communicating  machines. Our software provides several Markov kernels, including our newly proposed algorithm, autoMALA. This MCMC algorithm, based on the Metropolis-adjusted Langevin algorithm,  automatically sets its step size at each iteration based on the local geometry of the target  distribution. Our experiments demonstrate that autoMALA is competitive with related  state-of the-art MCMC methods, in terms of the number of log density evaluations per  effective sample, and it outperforms state-of-the-art samplers on targets with varying  geometries. 
+  biography: Nikola Surjanovic is a [Vanier Scholar](https://vanier.gc.ca/en/home-accueil.html) pursuing a PhD in Statistics at the University of British  Columbia under the supervision of Dr. Alexandre Bouchard-Côté and Dr. Trevor Campbell.  His research interests include scalable Bayesian inference and machine learning. Nikola is  also a core contributor and founding member of the [Pigeons software project](https://github.com/Julia-Tempering/Pigeons.jl) for distributed sampling from difficult distributions and for solving computational Lebesgue  integration problems.  
+  photo: "nikola_surjanovic"
 
 - date: November 21, 2024 at 2pm EET
-  title: "Robust Probabilistic Circuits (Tentative)"
+  title: "Robust probabilistic circuits for efficient and reliable predictions"
   presenter: Fabrizio Ventola
   url: https://www.ml.informatik.tu-darmstadt.de/people/fventola/
   affiliation: TU Darmstadt
-  abstract: TBA
-  # biography: TBH
-  # photo: "fabrizio_ventola"
+  abstract: Probabilistic circuits are prominent tractable probabilistic models which can provide exact answers to a wide range of probabilistic queries in a tractable way. Given their sparse nature and the structural constraints enabling exact inference, it is challenging to induce these models in high-dimensional real-world domains such as time series and raw images. In this talk, I show how we can leverage spectral modeling and the clear probabilistic semantics of probabilistic circuits to learn models able to provide efficient and reliable predictions in these challenging domains, and how to make these particular models more robust to distribution shift and out-of-distribution data.
+  biography: Fabrizio Ventola is concluding his PhD at the AI & ML Lab of TU Darmstadt (Germany), advised by Kristian Kersting. His research focuses on deep tractable probabilistic models and how to enable them to efficiently provide insights on big data collections, such as performing accurate and reliable predictions in the presence of noise and missing data. He co-organized the last three editions of the workshop on Tractable Probabilistic Modeling (TPM), which were co-located with UAI, and a series of seminars mainly centred on AutoML and intelligent systems for data management.
+  photo: "fabrizio_ventola"
 
 - date: November 28, 2024 at 2pm EET
   title: "Physics inspired deep representation learning (Tentative)"
