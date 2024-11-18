@@ -307,13 +307,13 @@
   photo: "fabrizio_ventola"
 
 - date: November 28, 2024 at 2pm EET
-  title: "Physics inspired deep representation learning (Tentative)"
+  title: "Physics-inspired Deep Representation Learning" 
   presenter: Yogesh Verma
   url: https://yoverma.github.io/yoerma.github.io/
   affiliation: Aalto University
-  abstract: TBH # exists
-  # biography: TBH # exists
-  # photo: "yogesh_verma"
+  abstract: The past decade has witnessed a remarkable surge in deep learning applications, spanning from recommender systems to fundamental sciences like biology and chemistry. However, when applied to scientific domains, deep learning methods lack effective inductive biases, leading to suboptimal performance and limited generalizability. By bridging the gap between deep learning and physical inductive biases, we aim to develop robust, interpretable, and scientifically grounded AI methods. In this talk, I will present our recent works on developing physics-inspired deep learning approaches in AI4Science, such as modeling weather and climate, generating macromolecules, and designing topological GNNs for drug discovery.
+  biography: Yogesh Verma is a doctoral researcher at Aalto University, supervised by Vikas Garg and Markus Heinonen. His research interests include developing physics-inspired deep learning methods for modeling dynamical systems, (geometric and topological) deep learning, generative modeling and robust bayesian inference.
+  photo: "yogesh_verma"
 
 - date: December 05, 2024 at 2pm EET
   title: "Scalable Approximate Bayesian Methods for Uncertainty Quantification in DNNs (Tentative)"
