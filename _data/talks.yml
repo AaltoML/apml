@@ -316,15 +316,15 @@
   photo: "yogesh_verma"
 
 - date: December 05, 2024 at 2pm EET
-  title: "Scalable Approximate Bayesian Methods for Uncertainty Quantification in DNNs (Tentative)"
+  title: "Efficient Bayesian approaches to robust deep learning."
   presenter: Olivier Laurent
   url: https://scholar.google.com/citations?user=RW4CQ68AAAAJ
   affiliation: University of Paris-Saclay
-  abstract: TBA # missing
-  # biography: TBH # missing
-  # photo: "olivier_laurent"
+  abstract: Deep learning has made significant progress, but robustness issues like overconfidence, hallucinations, and adversarial vulnerability remain critical challenges in safety-critical applications. Bayesian methods — such as variational inference or even ensembles — have shown promise in improving robustness and uncertainty estimation but are often computationally expensive, paving the way for more efficient methods. Furthermore, some are difficult to implement, a problem we address in the PyTorch library TorchUncertainty. Finally, since Bayesian methods on the weight space are difficult to scale to the current computer vision models, we suggest exploring other arguably more adapted lower-dimensional avenues.
+  biography: Olivier Laurent is a Ph.D. student at Université Paris-Saclay & Institut Polytechnique de Paris (IPP), supervised by Gianni Franchi, Emanuel Aldea, and Adrien Chan-Hon-Tong. His research interests include the robustness of deep learning models - from uncertainty quantification to explainability - as well as their computational efficiency.
+  photo: "olivier_laurent"
 
-- date: December 12, 2024 at 2pm EET
+- date: December 19, 2024 at 2pm EET
   title: "Turing.jl: a general-purpose probabilistic programming language (Tentative)"
   presenter: Tor Fjelde
   affiliation: University of Cambridge
