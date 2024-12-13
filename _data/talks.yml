@@ -325,10 +325,10 @@
   photo: "olivier_laurent"
 
 - date: December 19, 2024 at 2pm EET
-  title: "Turing.jl: a general-purpose probabilistic programming language (Tentative)"
-  presenter: Tor Fjelde
+  title: "Turing.jl: a general-purpose probabilistic programming language"
+  presenter: Tor Erlend Fjelde
   affiliation: University of Cambridge
   url: http://retiredparkingguard.com/
-  abstract: TBA # missing
-  # biography: TBH # missing
-  # photo: "tor_fjelde"
+  abstract: In this talk we will look at [Turing.jl](https://github.com/TuringLang/Turing.jl), a general-purpose probabilistic programming language built on top of the Julia programming language. We will discuss the design of [Turing.jl](https://github.com/TuringLang/Turing.jl), its key features, how it compares to other PPLs, and finally why it might be of interest to both practitioners and inference researchers.
+  biography: Tor Erlend Fjelde is a PhD student in the Computational and Biological Learning (CBL) lab at the University of Cambridge. His research interests are mainly in the areas of sampling, be that for applications in Bayesian inference or molecular systems, and probabilistic programming. # missing
+  photo: "tor_fjelde"
